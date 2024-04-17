@@ -1,0 +1,7 @@
+owner=ITA
+controller=ITA
+add_core=MOR
+trade_goods = fish
+life_rating = 35
+terrain = urban
+colonial=2

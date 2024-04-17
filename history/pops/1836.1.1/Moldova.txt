@@ -1,0 +1,200 @@
+676 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1382
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 804
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 215
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 69
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 320
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 66430
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 977
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 260
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 83
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 390
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 4955
+	}
+
+}
+677 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1329
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 657
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 206
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 66
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 308
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 63029
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 144
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 800
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 249
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 80
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 375
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 4702
+	}
+
+}

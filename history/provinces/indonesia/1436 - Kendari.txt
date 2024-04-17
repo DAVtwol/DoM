@@ -1,0 +1,7 @@
+owner=SUN
+controller=REB
+add_core=LUW
+add_core=MKS
+add_core=SUN
+trade_goods = dye
+life_rating = 31

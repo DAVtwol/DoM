@@ -1,0 +1,5 @@
+owner=HAU
+controller=HAU
+add_core=KBO
+trade_goods = grain
+life_rating = 35

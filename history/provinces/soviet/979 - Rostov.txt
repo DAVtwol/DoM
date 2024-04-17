@@ -1,0 +1,7 @@
+owner=RUS
+controller=RUS
+add_core=CRI
+trade_goods = coal
+life_rating = 40
+terrain = mining_district
+colonial=2

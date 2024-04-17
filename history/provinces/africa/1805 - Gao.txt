@@ -1,0 +1,7 @@
+owner=TMB
+controller=TMB
+add_core=SGH
+add_core=TMB
+trade_goods = wool
+life_rating = 35
+terrain = semidesert

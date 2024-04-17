@@ -1,0 +1,6 @@
+owner=ETH
+controller=TUR
+add_core=ETH
+trade_goods = cattle
+life_rating = 31
+terrain = semidesert

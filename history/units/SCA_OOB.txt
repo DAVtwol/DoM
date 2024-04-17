@@ -1,0 +1,780 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = -26
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 50
+	level = 3
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = -46
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BMN = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BON = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHK = {
+	value = 0
+	level = 2
+}
+CRA = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSU = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 272
+	military_access = yes
+	influence_value = 105
+	level = 5
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 26
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 123
+	influence_value = 18
+	level = 3
+}
+FZA = {
+	value = 0
+	level = 2
+}
+GAM = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GHD = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = -67
+	level = 2
+}
+HAU = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = -3
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JNP = {
+	value = 0
+	level = 2
+}
+KED = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MOL = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+MZB = {
+	value = 0
+	level = 2
+}
+ODA = {
+	value = -7
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 33
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = -32
+	level = 2
+}
+POR = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+QUE = {
+	value = 271
+	military_access = yes
+	influence_value = 105
+	level = 5
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAK = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 219
+	military_access = yes
+	influence_value = 92
+	level = 5
+}
+SER = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SOO = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 20
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+URU = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 273
+	military_access = yes
+	influence_value = 105
+	level = 5
+}
+WAL = {
+	value = 0
+	level = 2
+}
+WES = {
+	value = 2
+	level = 3
+}
+WIA = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 1
+	level = 2
+}
+WRL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = -41
+	level = 2
+}
+X10 = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Christian III de Valois"
+	date="1625.1.6"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Håkon Falkenskjold"
+	date="1627.11.30"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Olof von Ascheberg"
+	date="1631.7.1"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Fredrik Lewenhaupt"
+	date="1632.9.21"
+	type=sea
+	personality="inspiring"
+	background="aristocrat"
+}
+
+
+#Armies
+army = {
+	name="Scandinavian Envoys"
+	location=1914
+	regiment = {
+		name="1st Odense Infantry"
+		type=infantry
+		home=373
+	}
+	regiment = {
+		name="1st Kalmar Infantry"
+		type=infantry
+		home=332
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=324
+	ship = {
+		name="Packa"
+		type=frigate
+	}
+	ship = {
+		name="Vainqueur"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=371
+	regiment = {
+		name="1st Turku Infantry"
+		type=infantry
+		home=345
+	}
+	regiment = {
+		name="1st Gävle Infantry"
+		type=infantry
+		home=317
+	}
+	regiment = {
+		name="1st Luleå Artillery"
+		type=artillery
+		home=321
+	}
+	regiment = {
+		name="1st Bodo Infantry"
+		type=infantry
+		home=306
+	}
+	regiment = {
+		name="1st Karlstad Artillery"
+		type=artillery
+		home=328
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=528
+	regiment = {
+		name="1st Karlskrona Infantry"
+		type=infantry
+		home=335
+	}
+	regiment = {
+		name="1st Hämeenlinna Infantry"
+		type=infantry
+		home=344
+	}
+	regiment = {
+		name="2nd Kalmar Infantry"
+		type=infantry
+		home=332
+	}
+	regiment = {
+		name="1st Åland Islands Infantry"
+		type=infantry
+		home=348
+	}
+	regiment = {
+		name="1st Lillehammer Infantry"
+		type=infantry
+		home=315
+	}
+}
+
+army = {
+	name="Grand Company"
+	location=373
+	regiment = {
+		name="1st Copenhagen Infantry"
+		type=infantry
+		home=372
+	}
+	regiment = {
+		name="1st Malmö Infantry"
+		type=infantry
+		home=334
+	}
+	regiment = {
+		name="2nd Copenhagen Infantry"
+		type=infantry
+		home=372
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=369
+	regiment = {
+		name="1st Kiel Infantry"
+		type=infantry
+		home=369
+	}
+	regiment = {
+		name="2nd Kiel Infantry"
+		type=infantry
+		home=369
+	}
+	regiment = {
+		name="3rd Kiel Infantry"
+		type=infantry
+		home=369
+	}
+	regiment = {
+		name="4th Kiel Infantry"
+		type=infantry
+		home=369
+	}
+	regiment = {
+		name="7th Kiel Infantry"
+		type=infantry
+		home=369
+	}
+}
+
+army = {
+	name="Finnish Company"
+	location=373
+	regiment = {
+		name="5th Kiel Infantry"
+		type=infantry
+		home=369
+	}
+	regiment = {
+		name="6th Kiel Infantry"
+		type=infantry
+		home=369
+	}
+	regiment = {
+		name="8th Kiel Infantry"
+		type=infantry
+		home=369
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2710
+	ship = {
+		name="Carl XIII"
+		type=manowar
+	}
+	ship = {
+		name="1st Odense Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aarhus Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Odense Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Aalborg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Stockholm"
+		type=manowar
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2710
+	ship = {
+		name="Karl XIV Johan"
+		type=manowar
+	}
+	ship = {
+		name="Prins Oscar"
+		type=manowar
+	}
+	ship = {
+		name="Svarta Örn"
+		type=frigate
+	}
+	ship = {
+		name="1st Kiel Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kiel Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lewiston Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Esbjerg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Riga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Riga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gotland Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Karlskrona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Jarramas"
+		type=frigate
+	}
+	ship = {
+		name="Delphin"
+		type=frigate
+	}
+	ship = {
+		name="2nd Aarhus Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=322
+	ship = {
+		name="Gustav den Store"
+		type=manowar
+	}
+}
+
+army = {
+	name="1st Army"
+	location=533
+	regiment = {
+		name="1st Hamar Infantry"
+		type=infantry
+		home=314
+	}
+	regiment = {
+		name="1st Frederiksstad Infantry"
+		type=infantry
+		home=316
+	}
+	regiment = {
+		name="1st Christiania Artillery"
+		type=artillery
+		home=313
+	}
+	regiment = {
+		name="1st Borås Artillery"
+		type=artillery
+		home=330
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1908
+	regiment = {
+		name="1st Ribe Infantry"
+		type=infantry
+		home=368
+	}
+	regiment = {
+		name="1st Borås Infantry"
+		type=infantry
+		home=330
+	}
+}
+

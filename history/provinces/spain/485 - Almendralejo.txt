@@ -1,0 +1,7 @@
+owner=ADU
+controller=ADU
+add_core=ADU
+add_core=SPA
+add_core=X03
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,6 @@
+owner=BLM
+controller=BLM
+add_core=BLM
+add_core=JAV
+trade_goods = fish
+life_rating = 35

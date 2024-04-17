@@ -1,0 +1,566 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AJU = {
+	value = -19
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ASH = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BAS = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BMN = {
+	value = -55
+	level = 2
+}
+BNG = {
+	value = -58
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BON = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHK = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 46
+	level = 3
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+FZA = {
+	value = -7
+	level = 2
+}
+GDW = {
+	value = 128
+	influence_value = 19
+	level = 2
+}
+GEL = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GHD = {
+	value = -6
+	level = 2
+}
+GUJ = {
+	value = 185
+	influence_value = 33
+	level = 4
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HDJ = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = -2
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = -5
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JNP = {
+	value = 0
+	level = 2
+}
+KED = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MFA = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = -17
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOL = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+MZB = {
+	value = 0
+	level = 2
+}
+ODA = {
+	value = -102
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PAT = {
+	value = 0
+	level = 2
+}
+PEG = {
+	value = 200
+	influence_value = 37
+	level = 4
+}
+PER = {
+	value = -4
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RAS = {
+	value = 0
+	level = 2
+}
+RHD = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -75
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAK = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 0
+	level = 2
+}
+SER = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 180
+	influence_value = 32
+	level = 4
+}
+SOO = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 21
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TIM = {
+	value = -14
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 209
+	influence_value = 39
+	level = 4
+}
+TUN = {
+	value = -8
+	level = 2
+}
+TUR = {
+	value = -4
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+URU = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VIJ = {
+	value = 37
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 25
+	level = 2
+}
+WES = {
+	value = 0
+	level = 2
+}
+WIA = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 0
+	level = 2
+}
+WRL = {
+	value = 22
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Burhan I Sharqi"
+	date="1624.4.6"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Hyder Chand"
+	date="1623.4.1"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="5th Army"
+	location=1239
+	regiment = {
+		name="1st Lucknow Irregulars"
+		type=irregular
+		home=1242
+	}
+	regiment = {
+		name="1st Lucknow Artillery"
+		type=artillery
+		home=1242
+	}
+	regiment = {
+		name="2nd Lucknow Artillery"
+		type=artillery
+		home=1242
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1242
+	regiment = {
+		name="2nd Lucknow Irregulars"
+		type=irregular
+		home=1242
+	}
+	regiment = {
+		name="1st Allahabad Artillery"
+		type=artillery
+		home=1243
+	}
+	regiment = {
+		name="1st Gaya Irregulars"
+		type=irregular
+		home=1248
+	}
+	regiment = {
+		name="1st Fyzabad Artillery"
+		type=artillery
+		home=1244
+	}
+	regiment = {
+		name="1st Chhatarpur Artillery"
+		type=artillery
+		home=1273
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1246
+	regiment = {
+		name="1st Allahabad Irregulars"
+		type=irregular
+		home=1243
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1242
+	regiment = {
+		name="3rd Lucknow Irregulars"
+		type=irregular
+		home=1242
+	}
+	regiment = {
+		name="1st Fyzabad Irregulars"
+		type=irregular
+		home=1244
+	}
+}
+

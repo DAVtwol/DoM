@@ -1,0 +1,811 @@
+#Sphere of Influence
+
+ADE = {
+	value = 0
+	level = 2
+}
+ADU = {
+	value = -72
+	level = 2
+}
+AJU = {
+	value = 0
+	level = 2
+}
+AST = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = -53
+	level = 2
+}
+AUV = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BMN = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BON = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CDL = {
+	value = 0
+	level = 2
+}
+CEB = {
+	value = 0
+	level = 2
+}
+CHK = {
+	value = 0
+	level = 2
+}
+CRA = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+CSU = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+CXI = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+ENL = {
+	value = 0
+	level = 2
+}
+ETH = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 4
+	level = 2
+}
+FZA = {
+	value = 22
+	level = 2
+}
+GAM = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GEN = {
+	value = 0
+	level = 2
+}
+GHD = {
+	value = 40
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 4
+	level = 2
+}
+HAU = {
+	value = 37
+	level = 2
+}
+HDR = {
+	value = -39
+	level = 2
+}
+HSE = {
+	value = 0
+	level = 2
+}
+HUN = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JGD = {
+	value = 0
+	level = 2
+}
+JNP = {
+	value = 0
+	level = 2
+}
+KED = {
+	value = 0
+	level = 2
+}
+KOL = {
+	value = -5
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+LBR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MGD = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MKS = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MOL = {
+	value = -11
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+MZB = {
+	value = 179
+	military_access = yes
+	influence_value = 82
+	level = 5
+}
+NOR = {
+	value = 0
+	level = 2
+}
+ODA = {
+	value = 0
+	level = 2
+}
+OIR = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 28
+	level = 2
+}
+PEG = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = -51
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PLB = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = -3
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+QUE = {
+	value = 0
+	level = 2
+}
+RAS = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+RYU = {
+	value = 0
+	level = 2
+}
+SAK = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SCO = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+SER = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SOO = {
+	value = 0
+	level = 2
+}
+SUL = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWA = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = -2
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 7
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+TUR = {
+	value = -125
+	level = 2
+}
+UBH = {
+	value = 0
+	level = 2
+}
+URU = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -5
+	level = 2
+}
+VIJ = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+WAL = {
+	value = -40
+	level = 2
+}
+WES = {
+	value = 91
+	influence_value = 10
+	level = 3
+}
+WIA = {
+	value = 0
+	level = 2
+}
+WOL = {
+	value = 10
+	level = 2
+}
+WRL = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = -5
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = -15
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+YAO = {
+	value = 0
+	level = 2
+}
+YEM = {
+	value = -35
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Isidoro della Rovere"
+	date="1616.6.29"
+	type=sea
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Lodovico Maria Doria-Landi"
+	date="1632.6.8"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Massimiliano Melzi"
+	date="1632.11.1"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Eugenio di Saluzzo"
+	date="1633.1.16"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+
+#Armies
+navy = {
+	name="3rd Fleet"
+	location=2746
+	ship = {
+		name="Sicilia"
+		type=manowar
+	}
+	ship = {
+		name="Sardegna"
+		type=manowar
+	}
+	ship = {
+		name="Puglia"
+		type=manowar
+	}
+	ship = {
+		name="Libia"
+		type=manowar
+	}
+	ship = {
+		name="Campania"
+		type=manowar
+	}
+	ship = {
+		name="1st Valencia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Basilicata"
+		type=manowar
+	}
+	ship = {
+		name="Quarto"
+		type=manowar
+	}
+}
+
+navy = {
+	name="11th Fleet"
+	location=502
+	ship = {
+		name="Fulmine"
+		type=frigate
+	}
+	ship = {
+		name="Lampo"
+		type=frigate
+	}
+	ship = {
+		name="Freccia"
+		type=frigate
+	}
+	ship = {
+		name="Dardo"
+		type=frigate
+	}
+	ship = {
+		name="Strale"
+		type=frigate
+	}
+	ship = {
+		name="Ostro"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1726
+	ship = {
+		name="1st Elba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Palermo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Palermo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tunis Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Venice Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Oviedo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Grosseto Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=514
+	ship = {
+		name="1st Agadir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rabat Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ifni Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rabat Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Armata di Firenze"
+	location=738
+	regiment = {
+		name="1st Modena Infantry"
+		type=infantry
+		home=739
+	}
+	regiment = {
+		name="1st Bologna Artillery"
+		type=artillery
+		home=741
+	}
+	regiment = {
+		name="1st Alessandria Infantry"
+		type=infantry
+		home=723
+	}
+	regiment = {
+		name="1st Ancona Artillery"
+		type=artillery
+		home=752
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=1689
+	ship = {
+		name="Euro"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armata di Salé"
+	location=513
+	regiment = {
+		name="1st Pescara Infantry"
+		type=infantry
+		home=10
+	}
+	regiment = {
+		name="1st Catanzaro Infantry"
+		type=infantry
+		home=760
+	}
+	regiment = {
+		name="2nd Modena Infantry"
+		type=infantry
+		home=739
+	}
+	regiment = {
+		name="1st Marrakesh Infantry"
+		type=infantry
+		home=1690
+	}
+	regiment = {
+		name="1st Messina Artillery"
+		type=artillery
+		home=763
+	}
+	regiment = {
+		name="1st Salerno Artillery"
+		type=artillery
+		home=755
+	}
+	regiment = {
+		name="1st Treviso Infantry"
+		type=infantry
+		home=732
+	}
+	regiment = {
+		name="1st Gaeta Artillery"
+		type=artillery
+		home=2567
+	}
+}
+
+army = {
+	name="Armata di Padova"
+	location=736
+	regiment = {
+		name="1st Parma Infantry"
+		type=infantry
+		home=738
+	}
+	regiment = {
+		name="1st Massa Artillery"
+		type=artillery
+		home=740
+	}
+	regiment = {
+		name="1st Siena Infantry"
+		type=infantry
+		home=747
+	}
+}
+
+army = {
+	name="1st Army"
+	location=740
+	regiment = {
+		name="1st Turin Infantry"
+		type=infantry
+		home=720
+	}
+	regiment = {
+		name="2nd Parma Infantry"
+		type=infantry
+		home=738
+	}
+	regiment = {
+		name="3rd Modena Infantry"
+		type=infantry
+		home=739
+	}
+	regiment = {
+		name="2nd Ferrara Infantry"
+		type=infantry
+		home=742
+	}
+	regiment = {
+		name="2nd Turin Infantry"
+		type=infantry
+		home=720
+	}
+}
+
+army = {
+	name="Armata di Avellino"
+	location=757
+	regiment = {
+		name="2nd Catanzaro Infantry"
+		type=infantry
+		home=760
+	}
+	regiment = {
+		name="1st Florence Infantry"
+		type=infantry
+		home=744
+	}
+	regiment = {
+		name="3rd Catanzaro Infantry"
+		type=infantry
+		home=760
+	}
+	regiment = {
+		name="2nd Florence Infantry"
+		type=infantry
+		home=744
+	}
+}
+
+army = {
+	name="Armata di Al-Mansha"
+	location=491
+	regiment = {
+		name="1st Ferrara Infantry"
+		type=infantry
+		home=742
+	}
+	regiment = {
+		name="1st Padua Infantry"
+		type=infantry
+		home=731
+	}
+	regiment = {
+		name="1st Florence Artillery"
+		type=artillery
+		home=744
+	}
+	regiment = {
+		name="3rd Florence Infantry"
+		type=infantry
+		home=744
+	}
+}
+
+army = {
+	name="Armata di Plasencia"
+	location=491
+	regiment = {
+		name="1st Siena Artillery"
+		type=artillery
+		home=747
+	}
+}
+

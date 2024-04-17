@@ -1,0 +1,6 @@
+owner=ODA
+controller=ODA
+add_core=JAP
+add_core=ODA
+trade_goods = fruit
+life_rating = 40

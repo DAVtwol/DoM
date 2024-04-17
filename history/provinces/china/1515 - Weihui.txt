@@ -1,0 +1,7 @@
+owner=ODA
+controller=ODA
+add_core=CHI
+add_core=JIN
+add_core=ODA
+trade_goods = wool
+life_rating = 32

@@ -1,0 +1,5 @@
+owner=ODA
+controller=ODA
+add_core=KOR
+trade_goods = grain
+life_rating = 31

@@ -1,0 +1,5 @@
+owner=AST
+controller=AST
+trade_goods = coffee
+life_rating = 31
+colonial=2

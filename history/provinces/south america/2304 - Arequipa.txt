@@ -1,0 +1,5 @@
+owner=PEU
+controller=PEU
+trade_goods = sulphur
+life_rating = 31
+terrain = new_world_semidesert

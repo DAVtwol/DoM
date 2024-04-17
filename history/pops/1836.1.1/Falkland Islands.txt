@@ -1,0 +1,23 @@
+2131 = {
+	soldiers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 68
+	}
+
+	artisans=
+	{
+		culture = ealimi
+		religion = sunni
+		size= 3
+	}
+
+}

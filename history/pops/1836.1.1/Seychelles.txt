@@ -1,0 +1,51 @@
+2127 = {
+	soldiers=
+	{
+		culture = crni
+		religion = orthodox
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = crni
+		religion = orthodox
+		size= 1309
+	}
+
+	artisans=
+	{
+		culture = crni
+		religion = orthodox
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = crni
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = crni
+		religion = orthodox
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = crni
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = crni
+		religion = orthodox
+		size= 1
+	}
+
+}

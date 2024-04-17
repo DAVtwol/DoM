@@ -1,0 +1,6 @@
+owner=ODA
+controller=ODA
+add_core=AIN
+add_core=ODA
+trade_goods = fish
+life_rating = 35

@@ -1,0 +1,572 @@
+1901 = {
+	slaves=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 28989
+	}
+
+	soldiers=
+	{
+		culture = gur
+		religion = shamanism
+		size= 1000
+	}
+
+	artisans=
+	{
+		culture = gur
+		religion = shamanism
+		size= 7813
+	}
+
+	clergymen=
+	{
+		culture = gur
+		religion = shamanism
+		size= 564
+	}
+
+	bureaucrats=
+	{
+		culture = gur
+		religion = shamanism
+		size= 78
+	}
+
+	officers=
+	{
+		culture = gur
+		religion = shamanism
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = gur
+		religion = shamanism
+		size= 729
+	}
+
+	farmers=
+	{
+		culture = gur
+		religion = shamanism
+		size= 60769
+	}
+
+	slaves=
+	{
+		culture = mossi
+		religion = sunni
+		size= 3011
+	}
+
+	soldiers=
+	{
+		culture = gur
+		religion = sunni
+		size= 104
+	}
+
+	artisans=
+	{
+		culture = gur
+		religion = sunni
+		size= 2123
+	}
+
+	clergymen=
+	{
+		culture = gur
+		religion = sunni
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = gur
+		religion = sunni
+		size= 21
+	}
+
+	officers=
+	{
+		culture = gur
+		religion = sunni
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = gur
+		religion = sunni
+		size= 198
+	}
+
+	farmers=
+	{
+		culture = gur
+		religion = sunni
+		size= 4759
+	}
+
+}
+1902 = {
+	slaves=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 18000
+	}
+
+	soldiers=
+	{
+		culture = gur
+		religion = shamanism
+		size= 830
+	}
+
+	artisans=
+	{
+		culture = gur
+		religion = shamanism
+		size= 3320
+	}
+
+	clergymen=
+	{
+		culture = gur
+		religion = shamanism
+		size= 540
+	}
+
+	bureaucrats=
+	{
+		culture = gur
+		religion = shamanism
+		size= 75
+	}
+
+	officers=
+	{
+		culture = gur
+		religion = shamanism
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = gur
+		religion = shamanism
+		size= 697
+	}
+
+	farmers=
+	{
+		culture = gur
+		religion = shamanism
+		size= 59472
+	}
+
+}
+1903 = {
+	slaves=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 14764
+	}
+
+	soldiers=
+	{
+		culture = gur
+		religion = shamanism
+		size= 669
+	}
+
+	artisans=
+	{
+		culture = gur
+		religion = shamanism
+		size= 2401
+	}
+
+	clergymen=
+	{
+		culture = gur
+		religion = shamanism
+		size= 390
+	}
+
+	bureaucrats=
+	{
+		culture = gur
+		religion = shamanism
+		size= 30
+	}
+
+	officers=
+	{
+		culture = gur
+		religion = shamanism
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = gur
+		religion = shamanism
+		size= 504
+	}
+
+	farmers=
+	{
+		culture = gur
+		religion = shamanism
+		size= 48123
+	}
+
+	slaves=
+	{
+		culture = mossi
+		religion = sunni
+		size= 236
+	}
+
+	soldiers=
+	{
+		culture = gur
+		religion = sunni
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = gur
+		religion = sunni
+		size= 319
+	}
+
+	clergymen=
+	{
+		culture = gur
+		religion = sunni
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = gur
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = gur
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = gur
+		religion = sunni
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = gur
+		religion = sunni
+		size= 376
+	}
+
+}
+1904 = {
+	slaves=
+	{
+		culture = mossi
+		religion = shamanism
+		size= 4608
+	}
+
+	soldiers=
+	{
+		culture = gur
+		religion = shamanism
+		size= 283
+	}
+
+	artisans=
+	{
+		culture = gur
+		religion = shamanism
+		size= 852
+	}
+
+	clergymen=
+	{
+		culture = gur
+		religion = shamanism
+		size= 138
+	}
+
+	bureaucrats=
+	{
+		culture = gur
+		religion = shamanism
+		size= 10
+	}
+
+	officers=
+	{
+		culture = gur
+		religion = shamanism
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = gur
+		religion = shamanism
+		size= 179
+	}
+
+	farmers=
+	{
+		culture = gur
+		religion = shamanism
+		size= 22220
+	}
+
+	slaves=
+	{
+		culture = mossi
+		religion = sunni
+		size= 2392
+	}
+
+	soldiers=
+	{
+		culture = gur
+		religion = sunni
+		size= 147
+	}
+
+	artisans=
+	{
+		culture = gur
+		religion = sunni
+		size= 867
+	}
+
+	clergymen=
+	{
+		culture = gur
+		religion = sunni
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = gur
+		religion = sunni
+		size= 11
+	}
+
+	officers=
+	{
+		culture = gur
+		religion = sunni
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = gur
+		religion = sunni
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = gur
+		religion = sunni
+		size= 10935
+	}
+
+}
+1905 = {
+	slaves=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 3492
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 249
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 497
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 11
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 20420
+	}
+
+	slaves=
+	{
+		culture = dyula
+		religion = sunni
+		size= 1508
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = sunni
+		size= 107
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = sunni
+		size= 927
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = sunni
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = sunni
+		size= 21
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = sunni
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = sunni
+		size= 195
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = sunni
+		size= 7808
+	}
+
+}
+1906 = {
+	slaves=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 12000
+	}
+
+	soldiers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 900
+	}
+
+	artisans=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 8100
+	}
+
+	clergymen=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 585
+	}
+
+	bureaucrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 45
+	}
+
+	officers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 1512
+	}
+
+	farmers=
+	{
+		culture = dyula
+		religion = shamanism
+		size= 66786
+	}
+
+}

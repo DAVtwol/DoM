@@ -1,0 +1,7 @@
+owner=RUS
+controller=RUS
+add_core=HND
+add_core=KAS
+trade_goods = grain
+life_rating = 35
+colonial=2

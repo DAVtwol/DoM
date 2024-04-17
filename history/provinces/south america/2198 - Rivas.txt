@@ -1,0 +1,5 @@
+owner=MSK
+controller=MSK
+add_core=MSK
+trade_goods = fish
+life_rating = 35

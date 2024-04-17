@@ -1,0 +1,6 @@
+owner=NKO
+controller=BNY
+add_core=BNY
+add_core=NKO
+trade_goods = cattle
+life_rating = 10

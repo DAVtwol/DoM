@@ -1,0 +1,6 @@
+owner=GUJ
+controller=BMN
+add_core=GUJ
+add_core=HND
+trade_goods = fruit
+life_rating = 32

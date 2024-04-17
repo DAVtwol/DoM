@@ -1,0 +1,6 @@
+owner=ODA
+controller=REB
+add_core=JAP
+add_core=ODA
+trade_goods = tea
+life_rating = 35

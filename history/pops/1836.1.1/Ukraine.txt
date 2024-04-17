@@ -1,0 +1,3711 @@
+662 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1148
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1028
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 166
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 59
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 274
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 59921
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1191
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 193
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 68
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 318
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 2788
+	}
+
+}
+678 = {
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 607
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 801
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 183
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 48
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 386
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 61412
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 129
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1141
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 261
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 69
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 550
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 10733
+	}
+
+}
+702 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 2555
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1616
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 403
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 98
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1516
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 122711
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 464
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 2203
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 548
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 134
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 115
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 2066
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 16817
+	}
+
+}
+950 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 3079
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 3582
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 521
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 58
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 349
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 155559
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 233
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 4124
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 599
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 67
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 401
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 6727
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 661
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = protestant
+		size= 10778
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1566
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 175
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 212
+	}
+
+	aristocrats=
+	{
+		culture = romanian
+		religion = protestant
+		size= 1049
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = protestant
+		size= 20289
+	}
+
+}
+951 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1551
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1127
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 518
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 60
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 965
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 76267
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 274
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 1525
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 700
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 82
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 1305
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 9728
+	}
+
+}
+952 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 3003
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 12568
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1962
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 220
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 3518
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 277796
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 252
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 14671
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 2290
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 257
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 147
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 4107
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 2507
+	}
+
+}
+953 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1478
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 3094
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 492
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 58
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 922
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 70355
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 215
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 3994
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 635
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 75
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 1190
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 4603
+	}
+
+}
+954 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1990
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 3674
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 307
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 78
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1879
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 90834
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 208
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 4442
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 371
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 95
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 2271
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 2207
+	}
+
+}
+955 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 3848
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 853
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 645
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 76
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 108
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 849
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 89013
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 601
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 1119
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 847
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 99
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 141
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 1115
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 9841
+	}
+
+}
+956 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 3727
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 300
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 99
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1238
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 89329
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 4033
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 324
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 108
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 1340
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 10250
+	}
+
+}
+957 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1612
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 2995
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 242
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 81
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 2021
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 72879
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 356
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 4315
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 349
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 117
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 2911
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 8994
+	}
+
+}
+958 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1003
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 3693
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 309
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1261
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 96162
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 4100
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 344
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 117
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 1401
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 12375
+	}
+
+}
+959 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1672
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 3098
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 256
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 47
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1590
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 77491
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 307
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 4233
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 348
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 65
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 2173
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 7589
+	}
+
+}
+960 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 3539
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 693
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 580
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 50
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 833
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 82268
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 576
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 917
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 769
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 66
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 131
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 1103
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 9605
+	}
+
+}
+961 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 3476
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 508
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 570
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 49
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 97
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 818
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 80801
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 629
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 692
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 776
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 66
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 133
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 1114
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 10850
+	}
+
+}
+962 = {
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 1305
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size= 2854
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size= 208
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 50
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 597
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 62520
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = protestant
+		size= 177
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = protestant
+		size= 3627
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = protestant
+		size= 265
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = protestant
+		size= 63
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = protestant
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = protestant
+		size= 759
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = protestant
+		size= 4009
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1150
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 2515
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 184
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 44
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 526
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 55078
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 198
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 3377
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 246
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 59
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 707
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 5403
+	}
+
+}
+963 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 4206
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 9216
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 691
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 158
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 135
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 2531
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 200430
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 625
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 11958
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 896
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 206
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 176
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 3284
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 14619
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 2053
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size= 4496
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size= 337
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 77
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 1235
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 97799
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = protestant
+		size= 287
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = protestant
+		size= 5749
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = protestant
+		size= 431
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = protestant
+		size= 99
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = protestant
+		size= 85
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = protestant
+		size= 1579
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = protestant
+		size= 6258
+	}
+
+}
+964 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 457
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1142
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 25
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 115
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 24506
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 1330
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 29
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 134
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 455
+	}
+
+}
+965 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 950
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1050
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 25
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 115
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 23350
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 80
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 1224
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 29
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 134
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 423
+	}
+
+}
+966 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 375
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size= 400
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 22
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 140
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 10848
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 395
+	}
+
+}
+967 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 1132
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size= 516
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 30
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 13825
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 590
+	}
+
+}
+968 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 415
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 260
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 12
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 513
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 41977
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 242
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 562
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 135
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 25
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1110
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 22794
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 82
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 1026
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 247
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 46
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 2026
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 4431
+	}
+
+}
+969 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 658
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 320
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 19
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 831
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 64499
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 382
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 692
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 223
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 40
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 1796
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 35022
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 129
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 1262
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 407
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 73
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 3278
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 6807
+	}
+
+}
+970 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 343
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 188
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 10
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 168
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 35669
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 166
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 370
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 20
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 330
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 16364
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 101
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 779
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 210
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 41
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 694
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 8167
+	}
+
+}
+971 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 345
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 191
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 10
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 35889
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 167
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 374
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 20
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 332
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 16466
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 102
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 788
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 212
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 42
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 698
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 8216
+	}
+
+}
+972 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 626
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 254
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 33277
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 336
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 526
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 92
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 284
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 16991
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 151
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 1023
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 179
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 552
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 5851
+	}
+
+}
+973 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 654
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 791
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 18
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 82
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 17279
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 924
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 21
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 312
+	}
+
+}
+974 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 575
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 2659
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 170
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 61
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1131
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 60491
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = protestant
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = protestant
+		size= 2723
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = protestant
+		size= 174
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = protestant
+		size= 62
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = protestant
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = protestant
+		size= 1158
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1675
+	}
+
+}
+975 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 574
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 696
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 16
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 15332
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 60
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 841
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 19
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 577
+	}
+
+}
+976 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 2250
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 2433
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 186
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 55
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 214
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 54264
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 235
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 2939
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 225
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 67
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 258
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 2038
+	}
+
+}
+978 = {
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 798
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size= 1817
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 21
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 345
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 81764
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 383
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 3561
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 245
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 42
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 676
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 35623
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 237
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 7537
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 517
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 89
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 1429
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 14850
+	}
+
+}
+980 = {
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 917
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size= 2064
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size= 149
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 23
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 385
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 88179
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 440
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 4045
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 292
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 45
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 755
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = orthodox
+		size= 38417
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 272
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 8561
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 618
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 95
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 1598
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 16015
+	}
+
+}

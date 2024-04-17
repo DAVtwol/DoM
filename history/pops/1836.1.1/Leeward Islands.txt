@@ -1,0 +1,309 @@
+2224 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 3759
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 286
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = catholic
+		size= 1985
+	}
+
+	farmers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 249
+	}
+
+	aristocrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 52
+	}
+
+	clergymen=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 20
+	}
+
+}
+2225 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 949
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 39
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = catholic
+		size= 504
+	}
+
+	artisans=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 1
+	}
+
+}
+2226 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 545
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 43
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 557
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 47
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+}
+2227 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 4018
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 44
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 361
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = catholic
+		size= 2184
+	}
+
+	farmers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 273
+	}
+
+	aristocrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 57
+	}
+
+	clergymen=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 23
+	}
+
+}

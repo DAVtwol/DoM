@@ -1,0 +1,7 @@
+owner=TUR
+controller=TUR
+add_core=ARA
+trade_goods = fish
+life_rating = 31
+terrain = semidesert
+colonial=2

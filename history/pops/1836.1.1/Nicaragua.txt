@@ -1,0 +1,197 @@
+2197 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 492
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 47028
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1959
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 318
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 411
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 23
+	}
+
+}
+2198 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 9600
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 399
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 83
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 5
+	}
+
+}
+2199 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 325
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 600
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 11825
+	}
+
+}
+2200 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 555
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2239
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = animist
+		size= 115
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 24
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = animist
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2
+	}
+
+}

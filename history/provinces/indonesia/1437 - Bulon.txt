@@ -1,0 +1,7 @@
+owner=SUN
+controller=SUN
+add_core=BTN
+add_core=MAL
+add_core=SUN
+trade_goods = fish
+life_rating = 31

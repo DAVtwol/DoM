@@ -1,0 +1,24 @@
+guarantee=
+{
+	first="MLC"
+	second="PLB"
+	start_date="1625.9.29"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="JNP"
+	second="DLH"
+	start_date="1630.2.17"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="SUN"
+	second="MLC"
+	start_date="1634.6.22"
+	end_date="1936.1.1"
+}
+

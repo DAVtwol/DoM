@@ -1,0 +1,10 @@
+owner=SWA
+controller=SWA
+add_core=ADA
+add_core=AJU
+add_core=SOM
+add_core=SWA
+add_core=WRL
+trade_goods = grain
+life_rating = 10
+terrain = dryhills

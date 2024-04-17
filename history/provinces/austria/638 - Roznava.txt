@@ -1,0 +1,7 @@
+owner=AUS
+controller=AUS
+add_core=AUS
+add_core=SLV
+add_core=WSF
+trade_goods = coal
+life_rating = 35

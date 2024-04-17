@@ -1,0 +1,9 @@
+owner=AUS
+controller=AUS
+add_core=AUS
+add_core=GER
+add_core=LBV
+add_core=UBV
+add_core=X07
+trade_goods = cattle
+life_rating = 40

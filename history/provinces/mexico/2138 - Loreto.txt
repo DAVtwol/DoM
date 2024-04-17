@@ -1,0 +1,5 @@
+owner=DES
+controller=DES
+trade_goods = fish
+life_rating = 32
+terrain = new_world_semidesert

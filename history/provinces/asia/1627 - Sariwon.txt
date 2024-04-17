@@ -1,0 +1,6 @@
+owner=ODA
+controller=ODA
+add_core=KOR
+add_core=ODA
+trade_goods = cattle
+life_rating = 31

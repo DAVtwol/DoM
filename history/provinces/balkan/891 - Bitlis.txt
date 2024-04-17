@@ -1,0 +1,5 @@
+owner=TUR
+controller=TUR
+add_core=SRN
+trade_goods = grain
+life_rating = 35

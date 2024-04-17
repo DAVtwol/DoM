@@ -1,0 +1,66 @@
+#Sphere of Influence
+
+BRZ = {
+	value = -53
+	level = 2
+}
+DES = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 31
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GAM = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+ODA = {
+	value = -51
+	level = 2
+}
+SOO = {
+	value = -1
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Kan Boar Bakan"
+	date="1618.8.3"
+	type=land
+	personality="inspiring"
+	background="aristocrat"
+}
+
+
+#Armies

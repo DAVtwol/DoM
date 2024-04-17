@@ -1,0 +1,102 @@
+2191 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 651
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 5855
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 423
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 65
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 546
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 57458
+	}
+
+}
+2192 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 440
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 3960
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 286
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 44
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 370
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 38865
+	}
+
+}

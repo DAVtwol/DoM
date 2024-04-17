@@ -1,0 +1,9 @@
+owner=ARH
+controller=ARH
+add_core=BEL
+add_core=RHI
+add_core=FRA
+add_core=WLL
+add_core=ARH
+trade_goods = coal
+life_rating = 35

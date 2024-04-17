@@ -1,0 +1,5 @@
+owner=UBH
+controller=UBH
+trade_goods = fruit
+life_rating = 10
+terrain = dryhills

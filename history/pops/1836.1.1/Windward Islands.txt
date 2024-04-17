@@ -1,0 +1,388 @@
+2229 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 15290
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2737
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = catholic
+		size= 6708
+	}
+
+	farmers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 206
+	}
+
+	soldiers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 1047
+	}
+
+	aristocrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 220
+	}
+
+	clergymen=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 170
+	}
+
+	bureaucrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 52
+	}
+
+	officers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 20
+	}
+
+}
+2231 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 3046
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 147
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 1206
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 405
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 12
+	}
+
+}
+2232 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 3207
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 144
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 1291
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 190
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 12
+	}
+
+}
+2233 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 4866
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 295
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = catholic
+		size= 2131
+	}
+
+	farmers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 12
+	}
+
+	artisans=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 21
+	}
+
+}
+2409 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 3476
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 137
+	}
+
+	slaves=
+	{
+		culture = afro_slavic
+		religion = catholic
+		size= 1524
+	}
+
+	farmers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 209
+	}
+
+	clergymen=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 15
+	}
+
+}

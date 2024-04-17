@@ -1,0 +1,6 @@
+owner=TUR
+controller=TUR
+add_core=ARA
+trade_goods = wool
+life_rating = 10
+colonial=2

@@ -1,0 +1,56 @@
+#Sphere of Influence
+
+CRA = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+CSU = {
+	value = 0
+	level = 2
+}
+DES = {
+	value = -10
+	level = 2
+}
+ENG = {
+	value = 103
+	influence_value = 13
+	level = 2
+}
+MEX = {
+	value = -10
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+ODA = {
+	value = -322
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -7
+	level = 2
+}
+SOO = {
+	value = -10
+	level = 2
+}
+X11 = {
+	value = -10
+	level = 2
+}
+X12 = {
+	value = -10
+	level = 2
+}
+
+#Leaders
+
+#Armies

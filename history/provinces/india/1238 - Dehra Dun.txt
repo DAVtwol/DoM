@@ -1,0 +1,6 @@
+owner=JNP
+controller=JNP
+add_core=HND
+add_core=JNP
+trade_goods = wool
+life_rating = 32

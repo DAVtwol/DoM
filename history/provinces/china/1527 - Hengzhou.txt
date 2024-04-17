@@ -1,0 +1,8 @@
+owner=DAI
+controller=DAI
+add_core=CHC
+add_core=CHI
+add_core=CWU
+add_core=DAI
+trade_goods = tea
+life_rating = 32

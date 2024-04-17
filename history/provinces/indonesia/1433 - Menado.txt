@@ -1,0 +1,11 @@
+owner=AST
+controller=AST
+trade_goods = dye
+life_rating = 32
+colonial=2
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

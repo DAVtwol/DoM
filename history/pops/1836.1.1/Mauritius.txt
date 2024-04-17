@@ -1,0 +1,88 @@
+2125 = {
+	soldiers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 489
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 23024
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 982
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 184
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 206
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 24
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 31
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = serb
+		religion = orthodox
+		size= 170
+	}
+
+	artisans=
+	{
+		culture = serb
+		religion = orthodox
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = serb
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = serb
+		religion = orthodox
+		size= 1
+	}
+
+}

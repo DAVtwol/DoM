@@ -1,0 +1,8 @@
+owner=ITA
+controller=ITA
+add_core=FUL
+add_core=ZAF
+trade_goods = cattle
+life_rating = 20
+terrain = semidesert
+colonial=2

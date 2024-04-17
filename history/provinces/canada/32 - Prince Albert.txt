@@ -1,0 +1,5 @@
+owner=GAM
+controller=GAM
+trade_goods = timber
+life_rating = 15
+terrain = new_world_boreal

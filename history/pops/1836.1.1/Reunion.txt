@@ -1,0 +1,58 @@
+2126 = {
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 14000
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 490
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 9098
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 979
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 183
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 205
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 24
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 31
+	}
+
+}

@@ -1,0 +1,7 @@
+owner=TMB
+controller=TMB
+add_core=FUL
+add_core=TMB
+add_core=ZAF
+trade_goods = fruit
+life_rating = 32

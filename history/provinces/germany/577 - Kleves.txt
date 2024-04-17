@@ -1,0 +1,8 @@
+owner=ARH
+controller=ARH
+add_core=GER
+add_core=WES
+add_core=ARH
+trade_goods = coal
+life_rating = 40
+terrain = mining_district

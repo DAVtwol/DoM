@@ -1,0 +1,17 @@
+name = "Kilwan Conquest of Cape"
+
+1632.1.5 = {
+	add_attacker = SWA
+	add_attacker = WRL
+	add_defender = ENG
+	add_defender = HAI
+	add_defender = POR
+	add_defender = URU
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = SWA
+		receiver = ENG
+		state_province_id = 2087
+	}
+}

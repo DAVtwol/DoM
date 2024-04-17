@@ -1,0 +1,130 @@
+2454 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 192
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 18934
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 2011
+	}
+
+	soldiers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 879
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 183
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 42
+	}
+
+	officers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 28
+	}
+
+}
+2520 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1722
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 184
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 77
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 1
+	}
+
+}

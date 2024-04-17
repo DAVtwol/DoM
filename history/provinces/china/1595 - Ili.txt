@@ -1,0 +1,12 @@
+owner=RUS
+controller=RUS
+add_core=XIN
+trade_goods = sulphur
+life_rating = 32
+colonial=2
+state_building=
+{
+	level=1
+	building = fabric_factory
+	upgrade = yes
+}

@@ -1,0 +1,6 @@
+owner=BMN
+controller=BMN
+add_core=BMN
+add_core=HND
+trade_goods = dye
+life_rating = 32

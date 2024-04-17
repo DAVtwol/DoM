@@ -1,0 +1,6 @@
+owner=HAU
+controller=HAU
+add_core=HAU
+add_core=NUP
+trade_goods = wool
+life_rating = 35

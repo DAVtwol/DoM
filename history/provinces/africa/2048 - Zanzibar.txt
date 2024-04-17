@@ -1,0 +1,5 @@
+owner=SWA
+controller=SWA
+add_core=SWA
+trade_goods = precious_goods
+life_rating = 40

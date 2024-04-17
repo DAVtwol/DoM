@@ -1,0 +1,8 @@
+owner=RUS
+controller=RUS
+add_core=CHI
+add_core=MCK
+add_core=NHX
+trade_goods = coal
+life_rating = 32
+colonial=2

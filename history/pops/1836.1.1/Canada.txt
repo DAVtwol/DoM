@@ -1,0 +1,4985 @@
+6 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+}
+7 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1800
+	}
+
+}
+9 = {
+	aristocrats=
+	{
+		culture = cree
+		religion = animist
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = animist
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = cree
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = animist
+		size= 520
+	}
+
+	soldiers=
+	{
+		culture = inuit
+		religion = animist
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 720
+	}
+
+}
+11 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 500
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 150
+	}
+
+}
+13 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 10
+	}
+
+	officers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 2460
+	}
+
+}
+14 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 45
+	}
+
+	clergymen=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 2156
+	}
+
+	artisans=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 45
+	}
+
+	clergymen=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 10
+	}
+
+}
+15 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 533
+	}
+
+	farmers=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 67
+	}
+
+	artisans=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = totemism
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1907
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 511
+	}
+
+	officers=
+	{
+		culture = alaskan
+		religion = orthodox
+		size= 1
+	}
+
+}
+16 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 990
+	}
+
+}
+17 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1000
+	}
+
+}
+18 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 520
+	}
+
+}
+19 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1950
+	}
+
+}
+20 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = totemism
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1921
+	}
+
+	artisans=
+	{
+		culture = dongren
+		religion = mahayana
+		size= 60
+	}
+
+	clergymen=
+	{
+		culture = dongren
+		religion = mahayana
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = dongren
+		religion = mahayana
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dongren
+		religion = mahayana
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dongren
+		religion = mahayana
+		size= 1
+	}
+
+}
+21 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1950
+	}
+
+}
+22 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = 
+		size= 1000
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = animist
+		size= 1000
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1950
+	}
+
+}
+23 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 60
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1080
+	}
+
+}
+24 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 445
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = 
+		size= 1615
+	}
+
+}
+25 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1500
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = animist
+		size= 380
+	}
+
+}
+26 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = 
+		size= 580
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1030
+	}
+
+}
+27 = {
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = metis
+		religion = 
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 710
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = 
+		size= 185
+	}
+
+}
+28 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = catholic
+		size= 1000
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 665
+	}
+
+}
+30 = {
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = metis
+		religion = 
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = catholic
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1950
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = 
+		size= 1000
+	}
+
+}
+31 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+}
+32 = {
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = totemism
+		size= 15
+	}
+
+	officers=
+	{
+		culture = cree
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = totemism
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 994
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = animist
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = animist
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = metis
+		religion = totemism
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = totemism
+		size= 910
+	}
+
+}
+33 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = 
+		size= 1000
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = animist
+		size= 1000
+	}
+
+}
+34 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = 
+		size= 1000
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = animist
+		size= 1000
+	}
+
+}
+35 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 950
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = 
+		size= 655
+	}
+
+}
+36 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1237
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 3
+	}
+
+}
+37 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = totemism
+		size= 907
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 192
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+}
+38 = {
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 841
+	}
+
+	farmers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 109
+	}
+
+	artisans=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 1
+	}
+
+}
+39 = {
+	aristocrats=
+	{
+		culture = cree
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = cree
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = animist
+		size= 900
+	}
+
+	clergymen=
+	{
+		culture = metis
+		religion = 
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = metis
+		religion = 
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = metis
+		religion = 
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = metis
+		religion = 
+		size= 910
+	}
+
+}
+40 = {
+	soldiers=
+	{
+		culture = cree
+		religion = totemism
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = totemism
+		size= 892
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+}
+41 = {
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 952
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 79
+	}
+
+	aristocrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 1
+	}
+
+}
+42 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1004
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 4
+	}
+
+	officers=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = metis
+		religion = protestant
+		size= 5
+	}
+
+}
+46 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 20009
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 20536
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 228
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1726
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 279
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 361
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 103
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 34
+	}
+
+}
+47 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = animist
+		size= 700
+	}
+
+}
+48 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = animist
+		size= 1600
+	}
+
+}
+49 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1726
+	}
+
+	farmers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 139
+	}
+
+	artisans=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = metis
+		religion = catholic
+		size= 5
+	}
+
+}
+50 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1171
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = geheimnisdeutsch
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 183
+	}
+
+	artisans=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 1
+	}
+
+}
+51 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1451
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 467
+	}
+
+	artisans=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 81
+	}
+
+	clergymen=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 1
+	}
+
+}
+52 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 876
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 514
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 348
+	}
+
+	artisans=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 228
+	}
+
+}
+53 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 248
+	}
+
+	farmers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 203
+	}
+
+	artisans=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 306
+	}
+
+	farmers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 205
+	}
+
+	artisans=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 1
+	}
+
+}
+54 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 4420
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 4070
+	}
+
+	artisans=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 359
+	}
+
+	aristocrats=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 43
+	}
+
+}
+55 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 85
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 8399
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 7725
+	}
+
+	soldiers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 684
+	}
+
+	aristocrats=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 143
+	}
+
+	clergymen=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 13
+	}
+
+}
+56 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 7779
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 3742
+	}
+
+	farmers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 4009
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1260
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 48
+	}
+
+	artisans=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 1259
+	}
+
+	aristocrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 21
+	}
+
+	officers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = virshjuros
+		religion = catholic
+		size= 50
+	}
+
+}
+57 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 6062
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 384
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 3418
+	}
+
+	artisans=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 1155
+	}
+
+	aristocrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 69
+	}
+
+	clergymen=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 44
+	}
+
+}
+58 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 26135
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11459
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4088
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 190
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 245
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 70
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 15117
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 193
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 4599
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 213
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 276
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 78
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 26
+	}
+
+}
+59 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 512
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 481
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 133
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 32
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+}
+61 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1204
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1133
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 313
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 18
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+}
+62 = {
+	aristocrats=
+	{
+		culture = cree
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = cree
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = animist
+		size= 900
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 915
+	}
+
+}
+63 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 3253
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 543
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 156
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+}
+64 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 119
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 11754
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4390
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 683
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 143
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 34
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 49
+	}
+
+}
+65 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 15373
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 28607
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 313
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1880
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 460
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 304
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 112
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 37
+	}
+
+}
+66 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2220
+	}
+
+	farmers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 2993
+	}
+
+	artisans=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 521
+	}
+
+	aristocrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 48
+	}
+
+	clergymen=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 35
+	}
+
+	officers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 3923
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 3302
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 521
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 48
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 37
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 2829
+	}
+
+	artisans=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 485
+	}
+
+	aristocrats=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 45
+	}
+
+	clergymen=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = geheimnisdeutsch
+		religion = catholic
+		size= 3
+	}
+
+}
+67 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2124
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 3100
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 220
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 4
+	}
+
+}
+68 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 175
+	}
+
+	craftsmen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 4851
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 12490
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	craftsmen=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 1128
+	}
+
+	farmers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 2240
+	}
+
+	artisans=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 482
+	}
+
+	clerks=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 201
+	}
+
+	aristocrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 28
+	}
+
+	capitalists=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 38
+	}
+
+	craftsmen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2193
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4556
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 696
+	}
+
+	clerks=
+	{
+		culture = yankee
+		religion = catholic
+		size= 291
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 113
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 146
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 41
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 13
+	}
+
+	capitalists=
+	{
+		culture = yankee
+		religion = catholic
+		size= 23
+	}
+
+}
+69 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 3220
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4081
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 351
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7
+	}
+
+}
+70 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 5932
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1664
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 319
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 18
+	}
+
+}
+71 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 617
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 171
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 16358
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 131
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2686
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 833
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 136
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 41
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 17
+	}
+
+}
+72 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 8512
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 611
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 230
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 1378
+	}
+
+	artisans=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 211
+	}
+
+	clergymen=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = kepejokian
+		religion = catholic
+		size= 15
+	}
+
+}
+73 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 3942
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 813
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 200
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 42
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9
+	}
+
+}
+74 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5623
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 204
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1256
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 118
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 6814
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 27
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 81
+	}
+
+}
+75 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1909
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 476
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 95
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_canadian
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 426
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2940
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 2
+	}
+
+}
+76 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 700
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = animist
+		size= 450
+	}
+
+}
+77 = {
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 47
+	}
+
+}
+2592 = {
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = inuit
+		religion = catholic
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 800
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = animist
+		size= 400
+	}
+
+}
+2593 = {
+	clergymen=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = animist
+		size= 560
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 390
+	}
+
+}
+2594 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = animist
+		size= 500
+	}
+
+}
+2595 = {
+	aristocrats=
+	{
+		culture = french_canadian
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = protestant
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 1135
+	}
+
+}
+2596 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 500
+	}
+
+}
+2597 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 715
+	}
+
+}
+2598 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 70
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1260
+	}
+
+}
+2625 = {
+	clergymen=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = anglo_canadian
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = animist
+		size= 1070
+	}
+
+}
+2626 = {
+	aristocrats=
+	{
+		culture = inuit
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = inuit
+		religion = animist
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = inuit
+		religion = animist
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = inuit
+		religion = animist
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 600
+	}
+
+	aristocrats=
+	{
+		culture = cree
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = cree
+		religion = animist
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = cree
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = cree
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = cree
+		religion = animist
+		size= 500
+	}
+
+}
+2629 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 360
+	}
+
+}

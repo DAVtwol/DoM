@@ -1,0 +1,9 @@
+owner=WRL
+controller=AJU
+add_core=ADA
+add_core=AJU
+add_core=SOM
+add_core=WRL
+trade_goods = fish
+life_rating = 31
+terrain = semidesert

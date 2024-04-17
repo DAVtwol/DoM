@@ -1,0 +1,7 @@
+owner=RUS
+controller=RUS
+add_core=GHR
+add_core=HND
+trade_goods = wool
+life_rating = 32
+colonial=2

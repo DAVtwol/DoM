@@ -1,0 +1,6 @@
+owner=WOL
+controller=WOL
+add_core=WOL
+trade_goods = cotton
+life_rating = 35
+terrain = semidesert

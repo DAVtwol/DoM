@@ -1,0 +1,6 @@
+owner=CEB
+controller=CEB
+add_core=CEB
+add_core=PHL
+trade_goods = fish
+life_rating = 35

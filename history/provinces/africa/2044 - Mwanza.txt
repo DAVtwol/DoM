@@ -1,0 +1,5 @@
+owner=KRW
+controller=KRW
+trade_goods = grain
+life_rating = 10
+terrain = savanna

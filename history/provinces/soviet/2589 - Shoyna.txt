@@ -1,0 +1,7 @@
+owner=SOO
+controller=SOO
+add_core=JAP
+add_core=SOO
+trade_goods = fish
+life_rating = 31
+terrain = small_island

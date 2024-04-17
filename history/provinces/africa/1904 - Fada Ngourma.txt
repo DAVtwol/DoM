@@ -1,0 +1,6 @@
+owner=TMB
+controller=TMB
+add_core=BKF
+add_core=TMB
+trade_goods = wool
+life_rating = 35

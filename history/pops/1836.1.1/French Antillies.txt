@@ -1,0 +1,237 @@
+45 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 87
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 261
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 7
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 28
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+}
+2228 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 17002
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 187
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1478
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 8024
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 55
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 87
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1099
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 230
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 178
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 54
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 21
+	}
+
+}
+2230 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 18701
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 207
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1792
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 10299
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 112
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1284
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 208
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 269
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 63
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 25
+	}
+
+}

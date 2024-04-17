@@ -1,0 +1,286 @@
+2234 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 415
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1035
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 485
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 32
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 95
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 967
+	}
+
+}
+2235 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 81
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 193
+	}
+
+	farmers=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 15
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 91
+	}
+
+	artisans=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = meashighcaw
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = catholic
+		size= 18
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = catholic
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = yankee
+		religion = catholic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = catholic
+		size= 181
+	}
+
+}
+2236 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 82
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 223
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 173
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = protestant
+		size= 72
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 23
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = protestant
+		size= 5
+	}
+
+}

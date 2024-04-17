@@ -1,0 +1,5 @@
+owner=BRZ
+controller=BRZ
+trade_goods = rubber
+life_rating = 34
+colonial=2

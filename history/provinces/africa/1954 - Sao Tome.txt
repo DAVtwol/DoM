@@ -1,0 +1,6 @@
+owner=LBR
+controller=LBR
+add_core=LBR
+trade_goods = coffee
+life_rating = 35
+terrain = small_island

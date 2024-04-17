@@ -1,0 +1,7 @@
+owner=ODA
+controller=ODA
+add_core=MDS
+add_core=ODA
+add_core=PHL
+trade_goods = fruit
+life_rating = 35

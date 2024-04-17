@@ -1,0 +1,7 @@
+owner=HAU
+controller=HAU
+add_core=HAU
+add_core=KBO
+trade_goods = wool
+life_rating = 35
+terrain = semidesert

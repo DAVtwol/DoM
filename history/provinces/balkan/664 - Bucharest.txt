@@ -1,0 +1,12 @@
+owner=WAL
+controller=WAL
+add_core=ROM
+add_core=WAL
+trade_goods = grain
+life_rating = 35
+state_building=
+{
+	level=1
+	building = artillery_factory
+	upgrade = yes
+}

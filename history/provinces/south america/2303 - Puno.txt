@@ -1,0 +1,4 @@
+owner=PEU
+controller=PEU
+trade_goods = iron
+life_rating = 35

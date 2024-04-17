@@ -1,0 +1,6 @@
+owner=X12
+controller=X12
+add_core=X12
+trade_goods = fish
+life_rating = 31
+terrain = small_island

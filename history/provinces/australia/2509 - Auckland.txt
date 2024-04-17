@@ -1,0 +1,5 @@
+owner=X12
+controller=X12
+add_core=X12
+trade_goods = cattle
+life_rating = 35

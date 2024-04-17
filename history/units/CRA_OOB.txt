@@ -1,0 +1,75 @@
+#Sphere of Influence
+
+CRA = {
+	value = 0
+	level = 2
+}
+CSU = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+DES = {
+	value = -10
+	level = 2
+}
+MEX = {
+	value = -10
+	level = 2
+}
+MSK = {
+	value = 0
+	level = 2
+}
+ODA = {
+	value = -227
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -7
+	level = 2
+}
+SOO = {
+	value = -10
+	level = 2
+}
+URU = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = -10
+	level = 2
+}
+X12 = {
+	value = -10
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Cari III Puma"
+	date="1625.7.7"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Atoc Sopa Tupac-Amaru"
+	date="1625.3.27"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+
+#Armies

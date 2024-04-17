@@ -1,0 +1,86 @@
+517 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = sunni
+		size= 3568
+	}
+
+	soldiers=
+	{
+		culture = andalucian
+		religion = protestant
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = protestant
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = protestant
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = protestant
+		size= 41
+	}
+
+}

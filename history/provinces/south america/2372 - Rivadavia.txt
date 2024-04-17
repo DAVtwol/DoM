@@ -1,0 +1,7 @@
+owner=CRA
+controller=CRA
+add_core=CCQ
+add_core=CRA
+trade_goods = timber
+life_rating = 15
+terrain = savanna

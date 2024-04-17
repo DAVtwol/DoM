@@ -1,0 +1,58 @@
+203 = {
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 1244
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 853
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 90
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2
+	}
+
+}

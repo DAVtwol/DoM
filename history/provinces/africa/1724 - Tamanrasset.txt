@@ -1,0 +1,8 @@
+owner=SCO
+controller=SCA
+add_core=NOR
+add_core=SCA
+add_core=SCO
+trade_goods = wool
+life_rating = 30
+terrain = small_island

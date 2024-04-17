@@ -1,0 +1,26 @@
+#Sphere of Influence
+
+GAM = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+PLC = {
+	value = 0
+	level = 2
+}
+XAL = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

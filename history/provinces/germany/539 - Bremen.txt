@@ -1,0 +1,13 @@
+owner=WES
+controller=WES
+add_core=BRE
+add_core=GER
+add_core=WES
+trade_goods = fish
+life_rating = 40
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

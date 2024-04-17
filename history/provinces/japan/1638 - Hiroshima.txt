@@ -1,0 +1,7 @@
+owner=ODA
+controller=ODA
+add_core=JAP
+add_core=MRI
+add_core=ODA
+trade_goods = wool
+life_rating = 35

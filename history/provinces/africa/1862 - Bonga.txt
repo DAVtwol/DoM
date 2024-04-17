@@ -1,0 +1,6 @@
+owner=ETH
+controller=TUR
+add_core=ETH
+add_core=KAF
+trade_goods = coffee
+life_rating = 35

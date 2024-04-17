@@ -1,0 +1,6 @@
+owner=RUS
+controller=RUS
+add_core=HND
+trade_goods = cattle
+life_rating = 32
+colonial=2

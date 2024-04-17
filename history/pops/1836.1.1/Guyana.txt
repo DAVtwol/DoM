@@ -1,0 +1,253 @@
+1979 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 899
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 56
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1
+	}
+
+}
+2239 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 12707
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 457
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 1293
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 585
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 95
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 28
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 11
+	}
+
+}
+2242 = {
+	aristocrats=
+	{
+		culture = amazonian
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = amazonian
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = amazonian
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = amazonian
+		religion = animist
+		size= 900
+	}
+
+}
+2243 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 8581
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 151
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 417
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 369
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 77
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 18
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 7
+	}
+
+}

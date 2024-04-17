@@ -1,0 +1,7 @@
+owner=ETH
+controller=TUR
+add_core=AWS
+add_core=ETH
+trade_goods = fish
+life_rating = 31
+terrain = desert

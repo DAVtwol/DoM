@@ -1,0 +1,7 @@
+owner=BRZ
+controller=BRZ
+add_core=KAQ
+add_core=KIC
+trade_goods = fish
+life_rating = 35
+colonial=2

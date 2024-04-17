@@ -1,0 +1,6 @@
+owner=TMB
+controller=TMB
+add_core=KNG
+add_core=TMB
+trade_goods = fruit
+life_rating = 35

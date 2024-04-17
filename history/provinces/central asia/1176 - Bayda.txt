@@ -1,0 +1,8 @@
+owner=TUR
+controller=ADE
+add_core=ADE
+add_core=ARA
+trade_goods = fish
+life_rating = 32
+terrain = semidesert
+colonial=2

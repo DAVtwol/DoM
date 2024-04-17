@@ -1,0 +1,6 @@
+owner=MKS
+controller=MKS
+add_core=LUW
+add_core=MKS
+trade_goods = grain
+life_rating = 31

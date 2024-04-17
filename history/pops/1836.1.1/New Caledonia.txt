@@ -1,0 +1,65 @@
+1097 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 4849
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 794
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 240
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 12
+	}
+
+	officers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 17
+	}
+
+}

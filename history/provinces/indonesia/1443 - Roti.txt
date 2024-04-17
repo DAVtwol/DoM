@@ -1,0 +1,6 @@
+owner=SER
+controller=SER
+add_core=JAV
+add_core=SER
+trade_goods = timber
+life_rating = 31

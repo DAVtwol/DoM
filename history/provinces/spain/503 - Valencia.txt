@@ -1,0 +1,8 @@
+owner=ADU
+controller=ADU
+add_core=ADU
+add_core=ARN
+add_core=CAT
+add_core=SPA
+trade_goods = silk
+life_rating = 35

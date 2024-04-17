@@ -1,0 +1,7 @@
+owner=GHD
+controller=GHD
+add_core=GHD
+add_core=TUN
+trade_goods = fruit
+life_rating = 32
+fort = 2

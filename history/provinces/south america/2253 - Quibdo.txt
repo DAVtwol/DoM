@@ -1,0 +1,5 @@
+owner=VNZ
+controller=VNZ
+trade_goods = fish
+life_rating = 33
+colonial=1

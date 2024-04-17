@@ -1,0 +1,5 @@
+owner=SWA
+controller=SWA
+trade_goods = wool
+life_rating = 20
+terrain = mining_district

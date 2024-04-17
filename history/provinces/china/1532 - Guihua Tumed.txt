@@ -1,0 +1,8 @@
+owner=ODA
+controller=ODA
+add_core=KHA
+add_core=MGL
+add_core=ODA
+add_core=OIR
+trade_goods = iron
+life_rating = 32

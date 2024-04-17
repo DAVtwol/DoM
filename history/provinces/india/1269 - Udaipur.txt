@@ -1,0 +1,8 @@
+owner=GUJ
+controller=GUJ
+add_core=GUJ
+add_core=HND
+add_core=MAW
+add_core=MEW
+trade_goods = opium
+life_rating = 32

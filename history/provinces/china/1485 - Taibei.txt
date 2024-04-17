@@ -1,0 +1,5 @@
+owner=ODA
+controller=ODA
+add_core=ODA
+trade_goods = tea
+life_rating = 32

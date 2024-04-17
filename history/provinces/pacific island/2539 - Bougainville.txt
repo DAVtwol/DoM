@@ -1,0 +1,6 @@
+owner=AST
+controller=REB
+add_core=AST
+add_core=FJV
+trade_goods = tropical_wood
+life_rating = 15

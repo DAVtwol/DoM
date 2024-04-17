@@ -1,0 +1,5 @@
+owner=CRA
+controller=CRA
+add_core=CRA
+trade_goods = cattle
+life_rating = 39

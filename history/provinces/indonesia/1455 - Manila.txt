@@ -1,0 +1,9 @@
+owner=ODA
+controller=ODA
+add_core=MDS
+add_core=MNA
+add_core=ODA
+add_core=PGS
+add_core=PHL
+trade_goods = coffee
+life_rating = 40

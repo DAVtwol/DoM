@@ -1,0 +1,7 @@
+owner=PER
+controller=PER
+add_core=PER
+add_core=TIM
+add_core=X04
+trade_goods = fruit
+life_rating = 35

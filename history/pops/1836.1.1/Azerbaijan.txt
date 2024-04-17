@@ -1,0 +1,460 @@
+1102 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 1406
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 1465
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 46
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 186
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 15480
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 245
+	}
+
+}
+1103 = {
+	soldiers=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 727
+	}
+
+	artisans=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 584
+	}
+
+	clergymen=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 12
+	}
+
+	officers=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 11538
+	}
+
+	soldiers=
+	{
+		culture = dagestani
+		religion = orthodox
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = dagestani
+		religion = orthodox
+		size= 676
+	}
+
+	clergymen=
+	{
+		culture = dagestani
+		religion = orthodox
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = dagestani
+		religion = orthodox
+		size= 14
+	}
+
+	officers=
+	{
+		culture = dagestani
+		religion = orthodox
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = dagestani
+		religion = orthodox
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = dagestani
+		religion = orthodox
+		size= 139
+	}
+
+}
+1104 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 444
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 540
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 17
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 4894
+	}
+
+}
+1105 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 714
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 287
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 8
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 11654
+	}
+
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 232
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 473
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 13
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 3287
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = sunni
+		size= 770
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = sunni
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = sunni
+		size= 21
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = sunni
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = sunni
+		size= 144
+	}
+
+}
+1106 = {
+	soldiers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 1110
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = coptic
+		size= 600
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = coptic
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 42
+	}
+
+	officers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 126
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 12986
+	}
+
+}
+1107 = {
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 1036
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 1260
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 34
+	}
+
+	officers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 11407
+	}
+
+}

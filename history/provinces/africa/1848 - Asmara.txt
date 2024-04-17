@@ -1,0 +1,6 @@
+owner=ETH
+controller=TUR
+add_core=ETH
+add_core=MED
+trade_goods = fruit
+life_rating = 35

@@ -1,0 +1,7 @@
+owner=LNA
+controller=SIA
+add_core=IDO
+add_core=LNA
+add_core=SIA
+trade_goods = wool
+life_rating = 35

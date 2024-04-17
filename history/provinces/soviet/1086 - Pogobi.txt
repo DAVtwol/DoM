@@ -1,0 +1,7 @@
+owner=ODA
+controller=REB
+add_core=NVK
+add_core=ODA
+add_core=SIB
+trade_goods = fish
+life_rating = 15

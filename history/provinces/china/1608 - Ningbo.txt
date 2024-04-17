@@ -1,0 +1,6 @@
+owner=CWU
+controller=CWU
+add_core=CHI
+add_core=CWU
+trade_goods = cotton
+life_rating = 32

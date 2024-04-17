@@ -1,0 +1,13 @@
+owner=SCA
+controller=SCA
+add_core=NOR
+add_core=SCA
+trade_goods = iron
+life_rating = 20
+terrain = montane_tundra
+state_building=
+{
+	level=1
+	building = clipper_shipyard
+	upgrade = yes
+}

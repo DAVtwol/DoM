@@ -1,0 +1,97 @@
+2129 = {
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 494
+	}
+
+	soldiers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 440
+	}
+
+	artisans=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 1
+	}
+
+}
+2130 = {
+	soldiers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 65
+	}
+
+	artisans=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 3
+	}
+
+}
+2132 = {
+	soldiers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 65
+	}
+
+	artisans=
+	{
+		culture = anglo_african
+		religion = protestant
+		size= 3
+	}
+
+}

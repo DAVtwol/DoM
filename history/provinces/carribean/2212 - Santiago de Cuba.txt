@@ -1,0 +1,6 @@
+owner=CUB
+controller=CUB
+add_core=CUB
+add_core=HAI
+trade_goods = coffee
+life_rating = 35

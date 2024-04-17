@@ -1,0 +1,6 @@
+owner=ADU
+controller=ADU
+trade_goods = wool
+life_rating = 30
+terrain = new_world_arctic
+colonial=1

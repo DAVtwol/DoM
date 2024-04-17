@@ -1,0 +1,7 @@
+owner=BRZ
+controller=BRZ
+add_core=CHT
+add_core=KAQ
+trade_goods = coffee
+life_rating = 39
+colonial=2

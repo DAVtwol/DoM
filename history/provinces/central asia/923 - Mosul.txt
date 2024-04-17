@@ -1,0 +1,7 @@
+owner=TUR
+controller=TUR
+add_core=SRN
+trade_goods = sulphur
+life_rating = 35
+terrain = dryhills
+colonial=2

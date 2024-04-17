@@ -1,0 +1,137 @@
+2241 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2825
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 33
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 477
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = sunni
+		size= 777
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 381
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 71
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 8
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 8
+	}
+
+}
+2246 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 583
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = sunni
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = sunni
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = sunni
+		size= 1
+	}
+
+}

@@ -1,0 +1,7 @@
+owner=DAI
+controller=REB
+add_core=CHI
+add_core=ODA
+add_core=QIC
+trade_goods = silk
+life_rating = 32

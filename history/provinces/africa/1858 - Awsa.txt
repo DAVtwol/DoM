@@ -1,0 +1,7 @@
+owner=SWA
+controller=TUR
+add_core=AWS
+add_core=SWA
+trade_goods = grain
+life_rating = 10
+terrain = desert

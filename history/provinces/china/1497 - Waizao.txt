@@ -1,0 +1,5 @@
+owner=ODA
+controller=ODA
+add_core=CHI
+trade_goods = silk
+life_rating = 32

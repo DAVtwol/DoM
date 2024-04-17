@@ -1,0 +1,8 @@
+owner=HSE
+controller=CDL
+add_core=BUR
+add_core=HSE
+add_core=IDO
+add_core=SHA
+trade_goods = tea
+life_rating = 32

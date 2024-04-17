@@ -1,0 +1,7 @@
+owner=SWA
+controller=SWA
+add_core=AWS
+add_core=SWA
+trade_goods = cattle
+life_rating = 10
+terrain = semidesert

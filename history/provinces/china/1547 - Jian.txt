@@ -1,0 +1,7 @@
+owner=DAI
+controller=DAI
+add_core=CHI
+add_core=CWU
+add_core=DAI
+trade_goods = grain
+life_rating = 32

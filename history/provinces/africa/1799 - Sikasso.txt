@@ -1,0 +1,6 @@
+owner=TMB
+controller=TMB
+add_core=JNN
+add_core=TMB
+trade_goods = fruit
+life_rating = 35

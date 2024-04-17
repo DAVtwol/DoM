@@ -1,0 +1,8 @@
+owner=SUN
+controller=SUN
+add_core=JAV
+add_core=MJP
+add_core=MTR
+add_core=SUN
+trade_goods = grain
+life_rating = 35

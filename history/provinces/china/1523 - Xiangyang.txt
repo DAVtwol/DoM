@@ -1,0 +1,8 @@
+owner=ODA
+controller=ODA
+add_core=CHC
+add_core=CHI
+add_core=CWU
+add_core=CXI
+trade_goods = grain
+life_rating = 32

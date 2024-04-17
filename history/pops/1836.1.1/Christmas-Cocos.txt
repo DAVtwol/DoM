@@ -1,0 +1,9 @@
+2244 = {
+	farmers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 15
+	}
+
+}

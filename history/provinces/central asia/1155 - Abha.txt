@@ -1,0 +1,10 @@
+owner=TUR
+controller=TUR
+add_core=ARA
+add_core=HDR
+add_core=RAS
+add_core=YEM
+trade_goods = wool
+life_rating = 35
+terrain = semidesert
+colonial=2

@@ -1,0 +1,14 @@
+name = "3rd Siakian Conquest of Rokan"
+
+1632.3.4 = {
+	add_attacker = SAK
+	add_defender = MLC
+	add_defender = SUL
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = SAK
+		receiver = MLC
+		state_province_id = 1401
+	}
+}

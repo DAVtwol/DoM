@@ -1,0 +1,11 @@
+owner=QUE
+controller=QUE
+add_core=QUE
+trade_goods = timber
+life_rating = 31
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

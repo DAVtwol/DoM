@@ -1,0 +1,6 @@
+owner=ODA
+controller=ODA
+add_core=ODA
+trade_goods = timber
+life_rating = 32
+terrain = montane_forest

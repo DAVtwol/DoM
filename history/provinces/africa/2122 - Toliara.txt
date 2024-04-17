@@ -1,0 +1,8 @@
+owner=SWA
+controller=SWA
+add_core=MAD
+add_core=SKA
+add_core=SWA
+trade_goods = fruit
+life_rating = 35
+terrain = dryhills

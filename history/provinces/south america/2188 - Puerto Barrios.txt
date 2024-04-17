@@ -1,0 +1,6 @@
+owner=BRZ
+controller=BRZ
+add_core=KAQ
+trade_goods = wool
+life_rating = 35
+colonial=2

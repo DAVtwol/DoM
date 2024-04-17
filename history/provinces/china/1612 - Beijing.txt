@@ -1,0 +1,8 @@
+owner=ODA
+controller=ODA
+add_core=CHI
+add_core=JIN
+add_core=ODA
+add_core=OIR
+trade_goods = tea
+life_rating = 32

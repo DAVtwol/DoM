@@ -1,0 +1,2381 @@
+2468 = {
+	soldiers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 450
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 643
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 23
+	}
+
+	officers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 180
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 14641
+	}
+
+}
+2469 = {
+	soldiers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 172
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 6
+	}
+
+	officers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 3921
+	}
+
+}
+2470 = {
+	soldiers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 88
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 1995
+	}
+
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 693
+	}
+
+}
+2471 = {
+	soldiers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 56
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 79
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 1806
+	}
+
+}
+2472 = {
+	soldiers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 84
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 119
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 29
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 2738
+	}
+
+}
+2473 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 118
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2696
+	}
+
+}
+2474 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1801
+	}
+
+}
+2475 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 84
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2741
+	}
+
+}
+2476 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 87
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 124
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2823
+	}
+
+}
+2477 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 55
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1782
+	}
+
+}
+2478 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1708
+	}
+
+}
+2479 = {
+	soldiers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 1724
+	}
+
+}
+2480 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 865
+	}
+
+}
+2481 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 877
+	}
+
+}
+2482 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 252
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 359
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 9
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8226
+	}
+
+}
+2483 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 23
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 519
+	}
+
+	soldiers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 694
+	}
+
+}
+2484 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 79
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1830
+	}
+
+}
+2485 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 867
+	}
+
+}
+2486 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1706
+	}
+
+}
+2487 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1725
+	}
+
+}
+2488 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 148
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3450
+	}
+
+}
+2489 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 933
+	}
+
+}
+2490 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 867
+	}
+
+}
+2491 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 87
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 280
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2676
+	}
+
+}
+2492 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 908
+	}
+
+}
+2493 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 868
+	}
+
+}
+2494 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 908
+	}
+
+}
+2495 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 877
+	}
+
+}
+2496 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 877
+	}
+
+}
+2497 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 57
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 513
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 5017
+	}
+
+}
+2498 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 116
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2700
+	}
+
+}
+2499 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1818
+	}
+
+}
+2500 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 886
+	}
+
+}
+2501 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1723
+	}
+
+}
+2502 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 443
+	}
+
+}
+2503 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 619
+	}
+
+}
+2504 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 38
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 886
+	}
+
+}
+2505 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 193
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4413
+	}
+
+}
+2506 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 73
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 19
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1705
+	}
+
+}
+2507 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 616
+	}
+
+}
+2508 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 190
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 43
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+}
+2601 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 439
+	}
+
+}
+2602 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 444
+	}
+
+}
+2603 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 261
+	}
+
+}
+2604 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 135
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1311
+	}
+
+}
+2605 = {
+	soldiers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = aborigine
+		religion = orthodox
+		size= 709
+	}
+
+}

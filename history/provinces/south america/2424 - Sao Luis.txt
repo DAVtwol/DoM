@@ -1,0 +1,6 @@
+owner=X10
+controller=BRZ
+add_core=X10
+trade_goods = cotton
+life_rating = 35
+terrain = savanna

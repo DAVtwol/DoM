@@ -1,0 +1,360 @@
+849 = {
+	soldiers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 970
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 1939
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 315
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 136
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 475
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 44478
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+}
+850 = {
+	soldiers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 1702
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 1791
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 291
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 125
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 376
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 40424
+	}
+
+}
+851 = {
+	soldiers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 694
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 844
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 22
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 7650
+	}
+
+}
+852 = {
+	soldiers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 534
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 633
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 20
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 12762
+	}
+
+	soldiers=
+	{
+		culture = albanian
+		religion = protestant
+		size= 65
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = protestant
+		size= 786
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = protestant
+		size= 57
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = protestant
+		size= 24
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = protestant
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = protestant
+		size= 682
+	}
+
+}
+853 = {
+	soldiers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 548
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 649
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 20
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 13089
+	}
+
+	soldiers=
+	{
+		culture = albanian
+		religion = protestant
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = protestant
+		size= 806
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = protestant
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = protestant
+		size= 25
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = albanian
+		religion = protestant
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = protestant
+		size= 701
+	}
+
+}

@@ -1,0 +1,7 @@
+owner=AST
+controller=AST
+add_core=JAV
+add_core=SER
+trade_goods = coffee
+life_rating = 32
+colonial=2

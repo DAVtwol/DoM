@@ -1,0 +1,7 @@
+owner=RUS
+controller=RUS
+add_core=KAZ
+trade_goods = fruit
+life_rating = 15
+terrain = desert
+colonial=2

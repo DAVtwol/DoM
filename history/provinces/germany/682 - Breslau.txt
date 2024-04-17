@@ -1,0 +1,19 @@
+owner=PLC
+controller=PLC
+add_core=PLC
+add_core=POL
+add_core=WSF
+trade_goods = grain
+life_rating = 40
+state_building=
+{
+	level=1
+	building = small_arms_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

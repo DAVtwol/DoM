@@ -1,0 +1,4 @@
+owner=ODA
+controller=ODA
+trade_goods = grain
+life_rating = 35

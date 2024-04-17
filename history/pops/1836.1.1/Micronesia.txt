@@ -1,0 +1,540 @@
+610 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 593
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 1
+	}
+
+}
+1654 = {
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 7
+	}
+
+}
+2517 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1487
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 64
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 13
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 2
+	}
+
+}
+2518 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1679
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 219
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 79
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 3
+	}
+
+}
+2519 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 445
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 1
+	}
+
+}
+2521 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1309
+	}
+
+	farmers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 56
+	}
+
+	clergymen=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 11
+	}
+
+	officers=
+	{
+		culture = nanren
+		religion = mahayana
+		size= 1
+	}
+
+}
+2522 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 1314
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 108
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 59
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 2
+	}
+
+}
+2523 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 216
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 22
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 1
+	}
+
+}
+2525 = {
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 1
+	}
+
+}
+2527 = {
+	soldiers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = micronesian
+		religion = animist
+		size= 2979
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 283
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 137
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 7
+	}
+
+	officers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 6
+	}
+
+}
+2579 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 701
+	}
+
+	farmers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = juzhno
+		religion = orthodox
+		size= 1
+	}
+
+}

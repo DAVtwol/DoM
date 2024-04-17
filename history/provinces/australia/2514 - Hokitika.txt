@@ -1,0 +1,6 @@
+owner=AST
+controller=AST
+trade_goods = wool
+life_rating = 30
+terrain = montane_forest
+colonial=2
