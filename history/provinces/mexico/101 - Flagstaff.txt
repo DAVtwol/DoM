@@ -1,2 +1,5 @@
+owner=DES
+controller=DES
+add_core=DES
 trade_goods = iron
 life_rating = 35

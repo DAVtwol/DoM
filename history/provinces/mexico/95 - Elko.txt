@@ -1,3 +1,6 @@
+owner=X11
+controller=X11
+add_core=X11
 trade_goods = iron
 life_rating = 35
 terrain = new_world_semidesert

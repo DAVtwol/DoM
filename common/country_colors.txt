@@ -236,7 +236,7 @@ CLM = {
 
 # Mexico
 MEX = {
-    color1= { 219 124 139  }
+    color1= { 104 152 83  }
     color2= { 101 102 163  }
     color3= { 69 157 208  }
 }
@@ -3597,4 +3597,10 @@ ARH = { # Austrian Rhein
     color1 = { 180 180 180}
 	color2 = { 210 210 210}
 	color3 = { 210 210 210}
+}
+
+X11 = { # Arasuka
+    color1 = { 255 191 191 )
+    color2 = { 255 191 191 }
+    color3 = { 255 191 191 }
 }	
