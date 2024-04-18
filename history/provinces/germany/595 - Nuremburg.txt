@@ -1,8 +1,6 @@
-owner=AUS
-controller=AUS
+owner=ANS
+controller=ANS
 add_core=ANS
-add_core=AUS
 add_core=GER
-add_core=NUM
 trade_goods = grain
 life_rating = 40

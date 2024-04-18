@@ -1,6 +1,5 @@
-owner=AUS
-controller=AUS
-add_core=AUS
+owner=BYT
+controller=BYT
 add_core=BYT
 add_core=GER
 add_core=WBG

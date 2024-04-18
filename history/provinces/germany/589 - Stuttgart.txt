@@ -1,7 +1,6 @@
-owner=AUS
-controller=AUS
+owner=WUR
+controller=WUR
 add_core=ANS
-add_core=AUS
 add_core=GER
 add_core=WUR
 trade_goods = fruit

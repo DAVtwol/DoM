@@ -1,5 +1,5 @@
-owner=AUS
-controller=AUS
+owner=PAL
+controller=PAL
 add_core=AUS
 add_core=GER
 add_core=PAL

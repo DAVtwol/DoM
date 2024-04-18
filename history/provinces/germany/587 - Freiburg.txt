@@ -1,6 +1,6 @@
-owner=AUS
-controller=AUS
-add_core=AUS
+owner=WUR
+controller=WUR
+add_core=WUR
 add_core=GER
 trade_goods = fruit
 life_rating = 40

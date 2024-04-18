@@ -1,6 +1,6 @@
-owner=AUS
-controller=AUS
-add_core=AUS
+owner=ALS
+controller=ALS
+add_core=ALS
 add_core=GER
 add_core=MLH
 trade_goods = sulphur
