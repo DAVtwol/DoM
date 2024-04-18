@@ -162,34 +162,11 @@ vassal=
 vassal=
 {
 	first="ODA"
-	second="X11"
-	start_date="1583.4.17"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="ODA"
-	second="DES"
-	start_date="1601.10.3"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="ODA"
 	second="X12"
 	start_date="1625.1.8"
 	end_date="1936.1.1"
 }
 
-vassal=
-{
-	first="ODA"
-	second="PEU"
-	start_date="1635.1.4"
-	end_date="1936.1.1"
-}
 # New Puppets
 vassal=
 {
