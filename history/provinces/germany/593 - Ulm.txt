@@ -1,5 +1,6 @@
-owner=ULM
-controller=ULM
+owner=AUS
+controller=AUS
+add_core=AUS
 add_core=GER
 add_core=ULM
 trade_goods = grain

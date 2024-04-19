@@ -1,6 +1,6 @@
-owner=BAV
-controller=BAV
-add_core=BAV # AUS
-add_core=GER # SWI
+owner=AUS
+controller=AUS
+add_core=AUS
+add_core=SWI
 trade_goods = iron
 life_rating = 34
