@@ -1,7 +1,7 @@
-owner=BAV
-controller=BAV
-add_core=BAV # AUS
-add_core=GER # SWI
-add_core=BAV # TTL
+owner=AUS
+controller=AUS
+add_core=AUS
+add_core=SWI
+add_core=TTL
 trade_goods = cattle
 life_rating = 32
