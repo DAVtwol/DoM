@@ -1,5 +1,5 @@
 owner=ODA
-controller=ODA
-add_core=ODA
+controller=ODA # ODA
+
 trade_goods = tea
 life_rating = 32

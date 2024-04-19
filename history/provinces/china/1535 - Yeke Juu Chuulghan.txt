@@ -1,8 +1,8 @@
-owner=ODA
-controller=ODA
+owner=MGL
+controller=MGL
 add_core=KHA
 add_core=MGL
-add_core=ODA
+
 add_core=OIR
 trade_goods = timber
 life_rating = 32

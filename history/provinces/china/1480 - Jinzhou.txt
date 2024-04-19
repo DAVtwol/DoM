@@ -1,7 +1,7 @@
 owner=ODA
-controller=REB
+controller=ODA # REB
 add_core=CHI
-add_core=ODA
+
 add_core=OIR
 add_core=QIC
 trade_goods = timber

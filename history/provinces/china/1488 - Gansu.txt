@@ -1,5 +1,5 @@
-owner=ODA
-controller=ODA
+owner=MGL
+controller=MGL
 add_core=HMI
 add_core=KHA
 add_core=MGL

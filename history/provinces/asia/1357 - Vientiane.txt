@@ -1,8 +1,8 @@
-owner=SIA
-controller=SIA
+owner=DAI
+controller=DAI
 add_core=IDO
 add_core=LUA
 add_core=LXA
-add_core=SIA
+add_core=DAI
 trade_goods = wool
 life_rating = 35

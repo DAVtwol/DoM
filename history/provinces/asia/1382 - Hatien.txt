@@ -1,5 +1,6 @@
-owner=CAM
-controller=CAM
+owner=DAI
+controller=DAI
+add_core=DAI
 add_core=CAM
 add_core=IDO
 trade_goods = tropical_wood

@@ -1,7 +1,7 @@
-owner=ODA
-controller=ODA
+owner=MGL
+controller=MGL
 add_core=KHA
 add_core=MGL
-add_core=ODA
+
 trade_goods = grain
 life_rating = 32

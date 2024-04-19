@@ -1,4 +1,5 @@
-owner=ODA
+owner=MNX
+add_core=MNX
 controller=ODA
 add_core=CHI
 trade_goods = silk

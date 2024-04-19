@@ -1,6 +1,7 @@
-owner=ODA
-controller=ODA
+owner=MNX
+add_core=MNX
+controller=MNX # ODA
 add_core=CHI
-add_core=ODA
+
 trade_goods = grain
 life_rating = 32

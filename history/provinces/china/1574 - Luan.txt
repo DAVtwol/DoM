@@ -1,7 +1,8 @@
-owner=ODA
-controller=ODA
+owner=MNX
+add_core=MNX
+controller=MNX # ODA
 add_core=CHI
 add_core=JIN
-add_core=ODA
+
 trade_goods = cotton
 life_rating = 32

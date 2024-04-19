@@ -1,6 +1,5 @@
-owner=ODA
-controller=ODA
-add_core=ODA
+owner=TIB
+controller=TIB
 add_core=TIB
 trade_goods = timber
 life_rating = 32

@@ -1,5 +1,6 @@
-owner=CHK
-controller=CHK
+owner=DAI
+controller=DAI
+add_core=DAI
 add_core=CHK
 add_core=IDO
 add_core=LUA

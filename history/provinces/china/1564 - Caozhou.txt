@@ -1,4 +1,5 @@
-owner=ODA
+owner=MNX
+add_core=MNX
 controller=REB
 add_core=CHI
 add_core=QIC

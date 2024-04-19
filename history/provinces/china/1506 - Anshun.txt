@@ -1,5 +1,6 @@
-owner=CDL
-controller=CDL
+owner=DAI
+controller=DAI
+add_core=DAI
 add_core=CDL
 add_core=CHI
 trade_goods = tropical_wood
