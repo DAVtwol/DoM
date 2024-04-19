@@ -1,5 +1,5 @@
-owner=ITA
-controller=ITA
+owner=FUL
+controller=FUL
 add_core=FUL
 trade_goods = wool
 life_rating = 20

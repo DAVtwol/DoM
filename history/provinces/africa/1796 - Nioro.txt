@@ -1,5 +1,5 @@
-owner=ITA
-controller=ITA
+owner=FUL
+controller=FUL
 add_core=FUL
 add_core=ZAF
 trade_goods = cattle
