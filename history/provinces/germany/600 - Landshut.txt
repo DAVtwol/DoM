@@ -1,9 +1,9 @@
-owner=AUS
-controller=AUS
-add_core=AUS
-add_core=GER
-add_core=LBV
-add_core=UBV
-add_core=X07
+owner=BAV
+controller=BAV
+add_core=BAV # AUS
+add_core=BAV # GER
+add_core=GER # LBV
+add_core=BAV # UBV
+add_core=BAV # X07
 trade_goods = cattle
 life_rating = 40

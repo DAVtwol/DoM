@@ -1,7 +1,7 @@
-owner=AUS
-controller=AUS
-add_core=AUS
-add_core=GER
-add_core=ING
+owner=BAV
+controller=BAV
+add_core=BAV # AUS
+add_core=BAV # GER
+add_core=GER # ING
 trade_goods = grain
 life_rating = 40

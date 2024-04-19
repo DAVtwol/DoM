@@ -1,8 +1,8 @@
 owner=PAL
 controller=PAL
-add_core=AUS
-add_core=GER
-add_core=PAL
-add_core=WES
+add_core=BAV # AUS
+add_core=GER # GER
+add_core=BAV # PAL
+add_core=BAV # WES
 trade_goods = grain
 life_rating = 40
