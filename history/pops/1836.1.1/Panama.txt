@@ -1,35 +1,35 @@
 1723 = {
 	aristocrats=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 20
 	}
 
 	clergymen=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 50
 	}
 
 	soldiers=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 895
 	}
@@ -73,49 +73,49 @@
 2204 = {
 	aristocrats=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 225
 	}
 
 	bureaucrats=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 25
 	}
 
 	officers=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 450
 	}
 
 	soldiers=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 8050
 	}
@@ -159,35 +159,35 @@
 2205 = {
 	aristocrats=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 150
 	}
 
 	clergymen=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 300
 	}
 
 	soldiers=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 75
 	}
 
 	farmers=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 5375
 	}
@@ -231,35 +231,35 @@
 2206 = {
 	aristocrats=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 150
 	}
 
 	clergymen=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 250
 	}
 
 	soldiers=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 4500
 	}
@@ -303,35 +303,35 @@
 2208 = {
 	aristocrats=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 20
 	}
 
 	clergymen=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 25
 	}
 
 	artisans=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 50
 	}
 
 	soldiers=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 10
 	}
 
 	farmers=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 895
 	}

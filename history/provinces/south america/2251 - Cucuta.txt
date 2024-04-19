@@ -1,5 +1,6 @@
-owner=ODA
+owner=VNZ
 controller=VNZ
+add_core=VNZ
 trade_goods = coal
 life_rating = 34
 terrain = montane_forest

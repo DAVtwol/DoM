@@ -1,5 +1,6 @@
-owner=ODA
-controller=ODA
+owner=QTO
+controller=QTO
+add_core=QTO
 trade_goods = fish
 life_rating = 32
 terrain = new_world_semidesert

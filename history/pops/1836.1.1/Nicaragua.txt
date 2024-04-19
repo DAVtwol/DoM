@@ -103,35 +103,35 @@
 2199 = {
 	aristocrats=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 325
 	}
 
 	clergymen=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 125
 	}
 
 	artisans=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 600
 	}
 
 	soldiers=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 125
 	}
 
 	farmers=
 	{
-		culture = central_american
+		culture = chibchan
 		religion = catholic
 		size= 11825
 	}
