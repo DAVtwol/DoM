@@ -1,7 +1,7 @@
-owner=AUS
-controller=AUS
-add_core=AUS
-add_core=GER
-add_core=REG
+owner=BAV
+controller=BAV
+add_core=BAV # AUS
+add_core=GER # GER
+add_core=BAV # REG
 trade_goods = coal
 life_rating = 40
