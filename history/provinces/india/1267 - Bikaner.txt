@@ -1,5 +1,5 @@
-owner=GUJ
-controller=RUS
+owner=DLH
+controller=DLH
 add_core=DLH
 add_core=HND
 trade_goods = wool

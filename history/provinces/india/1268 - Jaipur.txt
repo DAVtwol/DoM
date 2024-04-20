@@ -1,5 +1,5 @@
-owner=JNP
-controller=JNP
+owner=MEW
+controller=MEW
 add_core=DLH
 add_core=GUJ
 add_core=HND

@@ -1,5 +1,5 @@
-owner=GUJ
-controller=GUJ
+owner=MEW
+controller=MEW
 add_core=GUJ
 add_core=HND
 add_core=MAW

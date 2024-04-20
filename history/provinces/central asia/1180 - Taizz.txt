@@ -1,5 +1,5 @@
-owner=YEM
-controller=YEM
+owner=TUR
+controller=TUR
 add_core=ADE
 add_core=ARA
 add_core=MHR
