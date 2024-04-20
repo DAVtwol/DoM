@@ -1,5 +1,5 @@
-owner=TIM
-controller=TIM
+owner=TUR
+controller=TUR
 add_core=PER
 add_core=TIM
 trade_goods = fish

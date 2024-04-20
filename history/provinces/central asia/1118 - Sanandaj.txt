@@ -1,7 +1,8 @@
-owner=TUR
-controller=TUR
+owner=TIM
+controller=TIM
 add_core=RDL
 add_core=SRN
+add_core=TIM
 trade_goods = wool
 life_rating = 35
 colonial=2

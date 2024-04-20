@@ -1,5 +1,5 @@
-owner=PER
-controller=PER
+owner=TUR
+controller=TUR
 add_core=IRQ
 add_core=PER
 trade_goods = fish

@@ -1,8 +1,7 @@
-owner=PER
-controller=PER
+owner=TUR
+controller=TUR
 add_core=ARL
 add_core=AZB
-add_core=PER
 add_core=QAR
 trade_goods = timber
 life_rating = 35
