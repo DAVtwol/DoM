@@ -1,6 +1,5 @@
-owner=SWA
-controller=SWA
-add_core=HAR
-add_core=SWA
+owner=ETH
+controller=ETH
+add_core=ETH
 trade_goods = coffee
 life_rating = 35

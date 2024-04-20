@@ -1,6 +1,6 @@
-owner=X00
-controller=TUR
-add_core=X00
+owner=ETH
+controller=ETH
+add_core=ETH
 trade_goods = fruit
 life_rating = 32
 terrain = semidesert

@@ -1,5 +1,5 @@
-owner=SWA
-controller=SWA
+owner=ETH
+controller=ETH
 add_core=ETH
 add_core=SWA
 trade_goods = grain
