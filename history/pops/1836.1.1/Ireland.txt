@@ -103,7 +103,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 7464
+		size= 2564
 	}
 
 	artisans=
@@ -603,7 +603,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 5907
+		size= 2207
 	}
 
 	artisans=
@@ -703,7 +703,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 10659
+		size= 6659
 	}
 
 	artisans=
@@ -903,7 +903,7 @@
 	{
 		culture = irish
 		religion = catholic
-		size= 5762
+		size= 1962
 	}
 
 	artisans=
