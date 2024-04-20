@@ -1,13 +1,11 @@
 capital = 1612
-primary_culture = nanfaren
+primary_culture = beifaren
 culture = zzz_religion_mahayana
 religion = mahayana
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_tradition
 literacy = 0.0112885
-
-civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

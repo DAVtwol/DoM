@@ -192,3 +192,19 @@ vassal=
     end_date="1936.1.1"
 }	
 
+vassal=
+{
+    first="ODA"
+    second="MNX"
+    start_date="1635.1.8"
+    end_date="1936.1.1"
+}
+
+vassal=
+{
+    first="ODA"
+    second="MGL"
+    start_date="1635.1.8"
+    end_date="1936.1.1"
+}	
+

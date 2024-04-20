@@ -8,6 +8,8 @@ plurality = 0
 nationalvalue = nv_tradition
 literacy = 0.0156154
 
+civilized = yes
+
 
 # Social Reforms
 wage_reform = no_minimum_wage
