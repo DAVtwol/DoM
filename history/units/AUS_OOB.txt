@@ -1,4 +1,68 @@
 #Sphere of Influence
+ 
+### German spherelings
+	BAV = {
+		value = 100
+		military_access = yes
+		level = 5
+	}
+	WUR = {
+		value = 100
+		military_access = yes
+		level = 5
+	}
+	ANS = {
+		value = 100
+		military_access = yes
+		level = 5
+	}
+	ALS = {
+		value = 100
+		military_access = yes
+		level = 5
+	}
+	ARH = {
+		value = 100
+		military_access = yes
+		level = 5
+	}
+	HES = {
+		value = 100
+		military_access = yes
+		level = 5
+	}
+	PAL = {
+		value = 100
+		military_access = yes
+		level = 5
+	}
+	ULM = {
+		value = 100
+		military_access = yes
+		level = 5
+	}
+	FRM = {
+		value = 100
+		military_access = yes
+		level = 5
+	}
+	COB = {
+		value = 100
+		military_access = yes
+		level = 5
+	}
+	BYT = {
+		value = 100
+		military_access = yes
+		level = 5
+	}
+	WBG = {
+		value = 100
+		military_access = yes
+		level = 5
+	}
+
+###
 
 ADE = {
 	value = 0
