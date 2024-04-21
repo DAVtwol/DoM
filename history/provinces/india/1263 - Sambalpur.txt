@@ -1,7 +1,8 @@
-owner=BNG
-controller=BNG
+owner=NGP # BNG
+controller=NGP # BNG
 add_core=BMN
 add_core=BNG
+add_core=NGP
 add_core=HND
 add_core=ORI
 trade_goods = grain

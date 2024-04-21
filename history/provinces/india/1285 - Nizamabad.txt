@@ -1,5 +1,5 @@
 owner=GUJ
-controller=BMN
+controller=GUJ
 add_core=GUJ
 add_core=HND
 trade_goods = fruit

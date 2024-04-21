@@ -1,5 +1,5 @@
-owner=BMN
-controller=BMN
+owner=BMN # BMN
+controller=BMN # BMN
 add_core=BMN
 add_core=HND
 trade_goods = dye

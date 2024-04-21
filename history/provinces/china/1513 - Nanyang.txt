@@ -3,6 +3,5 @@ add_core=MNX
 controller=MNX # ODA
 add_core=CHI
 add_core=LNG
-
 trade_goods = grain
 life_rating = 32

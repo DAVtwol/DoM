@@ -1,7 +1,8 @@
-owner=OIR
-controller=OIR
+owner=MNX
+controller=MNX
+add_core=MNX
 add_core=CHI
 add_core=CSH
-add_core=OIR
+#add_core=OIR
 trade_goods = grain
 life_rating = 32

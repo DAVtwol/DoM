@@ -2,6 +2,5 @@ owner=MNX
 add_core=MNX
 controller=MNX # ODA
 add_core=CHI
-
 trade_goods = grain
 life_rating = 32
