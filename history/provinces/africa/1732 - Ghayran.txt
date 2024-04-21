@@ -1,6 +1,5 @@
-owner=GHD
-controller=GHD
-add_core=GHD
+owner=TUN
+controller=TUN
 add_core=TUN
 trade_goods = fruit
 life_rating = 32

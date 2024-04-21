@@ -1,5 +1,5 @@
 owner=ETH
-controller=TUR
+controller=ETH
 add_core=ETH
 add_core=NUB
 trade_goods = fruit

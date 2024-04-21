@@ -1,5 +1,5 @@
 owner=MEW
-controller=GUJ
+controller=MEW
 add_core=DLH
 add_core=GUJ
 add_core=HND
