@@ -3,7 +3,7 @@
 	{
 		culture = juzhno
 		religion = orthodox
-		size= 450
+		size= 10450
 	}
 
 	artisans=
@@ -45,7 +45,7 @@
 	{
 		culture = juzhno
 		religion = orthodox
-		size= 14641
+		size= 34641
 	}
 
 }
@@ -460,7 +460,7 @@
 	{
 		culture = aborigine
 		religion = orthodox
-		size= 87
+		size= 10087
 	}
 
 	artisans=
@@ -502,7 +502,7 @@
 	{
 		culture = aborigine
 		religion = orthodox
-		size= 2823
+		size= 36823
 	}
 
 }
