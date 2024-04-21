@@ -1,5 +1,6 @@
-owner=DAI
+owner=MNX
 controller=MNX # REB
+add_core=MNX
 add_core=CHI
 add_core=QIC
 trade_goods = silk
