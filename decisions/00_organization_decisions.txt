@@ -1,7 +1,7 @@
 political_decisions = {
     enable_options = {
         picture = starting_options
-        alert = yes
+        alert = no
         potential = {
             ai = no
             NOT = { has_global_flag = looking_through_options }

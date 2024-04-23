@@ -1,5 +1,5 @@
-owner=HND
-controller=HND
+owner=DLH
+controller=DLH
 add_core=DLH
 add_core=HND
 add_core=JNP

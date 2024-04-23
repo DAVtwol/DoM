@@ -1,6 +1,6 @@
 owner=MNX
 add_core=MNX
-controller=REB
+controller=MNX
 add_core=CHI
 add_core=QIC
 trade_goods = silk

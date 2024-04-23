@@ -1,5 +1,5 @@
 owner=ODA
-controller=REB
+controller=JAP
 add_core=JAP
 add_core=ODA
 trade_goods = tea

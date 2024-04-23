@@ -1,5 +1,5 @@
-owner=VIJ
-controller=VIJ
+owner=BMN # VIJ
+controller=BMN # VIJ
 add_core=BMN
 add_core=HND
 add_core=VIJ

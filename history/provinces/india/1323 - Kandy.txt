@@ -1,7 +1,6 @@
-owner=VIJ
-controller=VIJ
-add_core=HND
+owner=SRI
+controller=SRI
 add_core=SRI
-add_core=VIJ
+add_core=HND
 trade_goods = coffee
 life_rating = 33

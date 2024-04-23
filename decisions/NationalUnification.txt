@@ -1003,7 +1003,7 @@ political_decisions = {
 
         allow = {
             prestige = 45
-            nationalism_n_imperialism = 1
+            revolution_n_counterrevolution = 1
             war = no
             HND = {
                 all_core = {
@@ -1012,14 +1012,12 @@ political_decisions = {
                         province_id = 1303
                         province_id = 1312
                         province_id = 1320
-                        is_core = KAL
-                        is_core = MAK
-                        is_core = AFG
-                        is_core = KAS
+                        province_id = 1325
+                        province_id = 2591
                         owner = {
                             OR = {
                                 in_sphere = THIS
-                                is_vassal = yes
+                                vassal_of = THIS
                             }
                             war = no
                             is_mobilised = no

@@ -1,6 +1,6 @@
 owner=MNX
 add_core=MNX
-controller=ODA
+controller=MNX
 add_core=CHC
 add_core=CHI
 add_core=CWU

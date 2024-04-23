@@ -1,5 +1,5 @@
-owner=JNP
-controller=BNG
+owner=BMN # JNP
+controller=BMN # BNG
 add_core=BMN
 add_core=GDW
 add_core=HND

@@ -535,43 +535,56 @@ political_decisions = {
     }
 
     claim_greater_bengal = {
-    picture = claim_greater_bengal
+        picture = claim_greater_bengal
         potential = {
             tag = BNG
             is_vassal = no
             NOT = { has_country_flag = claimed_greater_bengal }
+            has_country_flag = conquest_homelands
         }
 
         allow = {
             war = no
-            prestige = 50
+            prestige = 10
             war_policy = jingoism
-            OR = {
-                is_greater_power = yes
-                is_secondary_power = yes
+            all_core = {
+                OR = {
+                    owned_by = BNG
+                    core_of = BMN
+                }
             }
+            civilization_progress = 0.8
         }
 
         effect = {
             set_country_flag = claimed_greater_bengal
-            prestige = 10
-            ENG_1258 = { add_core = BNG } #Assam
-            ENG_1261 = { add_core = BNG } #Orissa
-            ENG_1247 = { add_core = BNG } #Bihar
+            prestige = 5
+            badboy = 2
+            JNP = {
+                all_core = {
+                    add_core = BNG
+                }
+            }
+            PEG = {
+                all_core = {
+                    add_core = BNG
+                }
+            }
             add_accepted_culture = oriya
             add_accepted_culture = bihari
+            add_accepted_culture = avadhi
+            add_accepted_culture = burmese
             any_country = {
                 limit = {
                     any_owned_province = {
                         OR = {
-                            region = ENG_1258
-                            region = ENG_1261
-                            region = ENG_1247
+                            core_of = PEG
+                            core_of = JNP
                         }
                     }
                     NOT = { tag = THIS }
                 }
-                relation = { who = THIS value = -100 }
+                relation = { who = THIS value = -50 }
             }
         }
 
@@ -579,6 +592,94 @@ political_decisions = {
             factor = 1
         }
     }
+
+####################################################################################
+####################################################################################
+####################################################################################
+
+    securing_bengal_cores = {
+        picture = claim_greater_bengal
+        potential = {
+            tag = BNG
+            is_vassal = no
+            NOT = { has_country_flag = conquest_homelands }
+        }
+
+        allow = {
+            war = no
+            prestige = 5
+            all_core = {
+                owned_by = BNG
+            }
+            civilization_progress = 0.7
+        }
+
+        effect = {
+            set_country_flag = conquest_homelands
+            prestige = 2
+            add_core = 1248
+            add_core = 1281
+            add_core = 1280
+            add_core = 1277
+            add_core = 1275
+            add_accepted_culture = asian_minor
+        }
+
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+
+
+    # claim_bengal_jaunpur = {
+    #     picture = claim_greater_bengal
+    #     potential = {
+    #         has_country_flag = claimed_greater_bengal
+    #         is_vassal = no
+    #         NOT = { has_country_flag = claimed_greater_bengal }
+    #     }
+
+    #     allow = {
+    #         war = no
+    #         prestige = 50
+    #         all_core = {
+    #             owned_by = BNG
+    #         }
+    #         civilized = yes
+    #         OR = {
+    #             NOT = { exists = JNP }
+    #             JNP = { vassal_of = THIS }
+    #         }
+    #     }
+
+    #     effect = {
+    #         set_country_flag = claimed_bengal_jaunpur
+    #         prestige = 1
+    #         add_accepted_culture = oriya
+    #         add_accepted_culture = bihari
+    #         any_country = {
+    #             limit = {
+    #                 any_owned_province = {
+    #                     OR = {
+    #                         core_of = PEG
+    #                         core_of = JNP
+    #                     }
+    #                 }
+    #                 NOT = { tag = THIS }
+    #             }
+    #             relation = { who = THIS value = -50 }
+    #         }
+    #     }
+
+    #     ai_will_do = {
+    #         factor = 1
+    #     }
+    # }
+
+####################################################################################
+####################################################################################
+####################################################################################
 
     rangit_singh = {
     picture = rangit_singh

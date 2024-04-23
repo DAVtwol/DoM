@@ -1,10 +1,10 @@
-owner=OIR
-controller=OIR
+owner=RUS
+controller=RUS
 add_core=CHI
 add_core=MCK
 add_core=MHX
 add_core=MJZ
 add_core=NHX
-add_core=OIR
+#add_core=OIR
 trade_goods = iron
 life_rating = 32

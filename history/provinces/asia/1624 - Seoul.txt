@@ -1,5 +1,5 @@
 owner=ODA
-controller=REB
+controller=ODA
 add_core=KOR
 add_core=ODA
 trade_goods = grain
