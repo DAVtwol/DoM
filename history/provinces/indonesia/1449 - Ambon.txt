@@ -1,5 +1,5 @@
 owner=SER
-controller=AST
+controller=SER
 add_core=MAL
 add_core=SER
 trade_goods = grain

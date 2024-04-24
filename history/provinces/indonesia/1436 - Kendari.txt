@@ -1,5 +1,5 @@
 owner=SUN
-controller=REB
+controller=SUN
 add_core=LUW
 add_core=MKS
 add_core=SUN

@@ -1,5 +1,5 @@
 owner=LNA
-controller=BNG
+controller=LNA
 add_core=BUR
 add_core=HSE
 add_core=IDO

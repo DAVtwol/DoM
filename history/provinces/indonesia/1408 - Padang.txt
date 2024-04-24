@@ -1,5 +1,5 @@
 owner=SUN
-controller=PGR
+controller=SUN
 add_core=IPR
 add_core=MLY
 add_core=PGR

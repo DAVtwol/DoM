@@ -1,5 +1,5 @@
 owner=POR
-controller=ADU
+controller=POR
 add_core=ADU
 add_core=POR
 trade_goods = fruit

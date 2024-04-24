@@ -1,5 +1,5 @@
 owner=MLC
-controller=SIA
+controller=MLC
 add_core=DJA
 add_core=MLC
 add_core=MLY

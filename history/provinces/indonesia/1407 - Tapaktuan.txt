@@ -1,5 +1,5 @@
 owner=SUN
-controller=ATJ
+controller=SUN
 add_core=BRS
 add_core=MLY
 add_core=PGR

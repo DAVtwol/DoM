@@ -1,5 +1,5 @@
 owner=TMB
-controller=HAU
+controller=TMB
 add_core=SGH
 add_core=TMB
 trade_goods = fruit

@@ -1,5 +1,5 @@
 owner=PEG
-controller=BNG
+controller=PEG
 add_core=ARK
 add_core=BUR
 add_core=IDO

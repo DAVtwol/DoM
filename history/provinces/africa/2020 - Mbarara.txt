@@ -1,5 +1,5 @@
 owner=NKO
-controller=BNY
+controller=NKO
 add_core=BNY
 add_core=NKO
 trade_goods = cattle

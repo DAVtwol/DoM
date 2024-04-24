@@ -1,5 +1,5 @@
 owner=TUR
-controller=PER
+controller=TUR
 add_core=ARL
 add_core=AZB
 add_core=PER

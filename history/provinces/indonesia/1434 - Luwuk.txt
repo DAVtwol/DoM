@@ -1,5 +1,5 @@
 owner=AST
-controller=REB
+controller=AST
 add_core=MKS
 trade_goods = fruit
 life_rating = 31

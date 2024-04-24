@@ -1,5 +1,5 @@
 owner=ODA
-controller=ODA # REB
+controller=ODA
 add_core=CHI
 #add_core=OIR
 add_core=QIC

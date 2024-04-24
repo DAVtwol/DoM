@@ -1,5 +1,5 @@
 owner=TRT
-controller=JNP
+controller=TRT
 add_core=HND
 add_core=JNP
 add_core=TRT

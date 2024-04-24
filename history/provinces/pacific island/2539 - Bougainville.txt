@@ -1,5 +1,5 @@
 owner=AST
-controller=REB
+controller=AST
 add_core=AST
 add_core=FJV
 trade_goods = tropical_wood

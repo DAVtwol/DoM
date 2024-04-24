@@ -1,5 +1,5 @@
 owner=X10
-controller=BRZ
+controller=X10
 add_core=X10
 trade_goods = cotton
 life_rating = 35

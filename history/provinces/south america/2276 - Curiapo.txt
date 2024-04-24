@@ -1,5 +1,5 @@
 owner=VNZ
-controller=ADU
+controller=VNZ
 trade_goods = fish
 life_rating = 33
 colonial=2

@@ -1,5 +1,5 @@
 owner=TIM
-controller=PER
+controller=TIM
 add_core=PER
 add_core=TAB
 add_core=TIM

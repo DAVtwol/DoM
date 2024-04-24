@@ -1,5 +1,5 @@
 owner=CWU
-controller=MNX # ODA
+controller=CWU
 add_core=CHC
 add_core=CHI
 add_core=CWU

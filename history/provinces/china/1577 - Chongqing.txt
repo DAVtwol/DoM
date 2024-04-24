@@ -1,6 +1,6 @@
 owner=MNX
 add_core=MNX
-controller=MNX # ODA
+controller=MNX
 add_core=CHI
 add_core=CWU
 trade_goods = tea

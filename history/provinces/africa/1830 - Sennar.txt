@@ -1,5 +1,5 @@
 owner=ETH
-controller=TUR
+controller=ETH
 add_core=ETH
 trade_goods = cattle
 life_rating = 34

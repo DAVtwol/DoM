@@ -1,5 +1,5 @@
 owner=AST
-controller=REB
+controller=AST
 add_core=PLB
 trade_goods = fish
 life_rating = 35

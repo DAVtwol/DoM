@@ -1,5 +1,5 @@
 owner=TUR
-controller=ADE
+controller=TUR
 add_core=ADE
 add_core=ARA
 trade_goods = fish

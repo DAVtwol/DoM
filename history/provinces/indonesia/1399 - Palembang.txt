@@ -1,5 +1,5 @@
 owner=MLC
-controller=SAK
+controller=MLC
 add_core=MLC
 add_core=MLY
 add_core=PLB

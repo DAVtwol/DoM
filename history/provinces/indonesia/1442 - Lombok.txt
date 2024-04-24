@@ -1,5 +1,5 @@
 owner=AST
-controller=REB
+controller=AST
 add_core=BLM
 trade_goods = timber
 life_rating = 35

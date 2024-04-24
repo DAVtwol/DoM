@@ -1,5 +1,5 @@
 owner=LNA
-controller=SIA
+controller=LNA
 add_core=IDO
 add_core=LNA
 add_core=SIA

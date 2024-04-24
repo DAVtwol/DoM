@@ -1,5 +1,5 @@
 owner=AST
-controller=REB
+controller=AST
 add_core=AST
 trade_goods = fish
 life_rating = 10
