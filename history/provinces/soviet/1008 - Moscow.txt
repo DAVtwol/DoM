@@ -4,3 +4,28 @@ add_core=RUS
 trade_goods = coal
 life_rating = 40
 terrain = mining_district
+state_building = {
+    level = 1
+    building = machine_parts_factory
+    upgrade = 1
+}
+state_building = {
+    level = 1
+    building = lumber_mill
+    upgrade = 1
+}
+state_building = {
+    level = 2
+    building = small_arms_factory
+    upgrade = 1
+}
+state_building = {
+    level = 2
+    building = regular_clothes_factory
+    upgrade = 1
+}
+state_building = {
+    level = 1
+    building = luxury_clothes_factory
+    upgrade = 1
+}

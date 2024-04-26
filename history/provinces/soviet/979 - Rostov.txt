@@ -5,4 +5,3 @@ add_core=RUS
 trade_goods = coal
 life_rating = 40
 terrain = mining_district
-colonial=2

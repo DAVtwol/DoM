@@ -2070,7 +2070,7 @@
 	{
 		culture = russian
 		religion = orthodox
-		size= 130727
+		size= 148927
 	}
 
 	aristocrats=
@@ -2106,6 +2106,16 @@
 		culture = ashkenazi
 		religion = jewish
 		size= 200
+	}
+	craftsmen={
+		culture = russian
+		religion = orthodox
+		size =  29287
+	}
+	clerks={
+		culture = russian
+		religion = orthodox
+		size = 2942
 	}
 
 }
@@ -2261,6 +2271,12 @@
 		size= 244349
 	}
 
+	craftsmen= {
+		culture = russian
+		religion = orthodox
+		size = 10822
+	}
+
 }
 1012 = {
 	soldiers=
@@ -2312,6 +2328,12 @@
 		size= 266291
 	}
 
+	craftsmen= {
+		culture = russian
+		religion = orthodox
+		size = 9822
+	}
+
 }
 1013 = {
 	soldiers=
@@ -2354,6 +2376,12 @@
 		culture = russian
 		religion = orthodox
 		size= 1142
+	}
+
+	craftsmen= {
+		culture = russian
+		religion = orthodox
+		size = 7822
 	}
 
 	farmers=
@@ -3842,9 +3870,29 @@
 		religion = orthodox
 		size= 51510
 	}
+	clergymen={
+		culture = russian
+		religion = orthodox
+		size = 4503
+	}
+	clerks={
+		culture = russian
+		religion = orthodox
+		size = 523
+	}
+	craftsmen={
+		culture = russian
+		religion = orthodox
+		size = 7669
+	}
 
 }
 1026 = {
+	craftsmen={
+		culture = russian
+		religion = orthodox
+		size = 13457
+	}
 	soldiers=
 	{
 		culture = ugrian
@@ -4089,6 +4137,16 @@
 		religion = tengri_pagan_reformed
 		size= 22379
 	}
+	craftsmen={
+		culture = russian
+		religion = orthodox
+		size = 10233
+	}
+	clerks={
+		culture = russian
+		religion = orthodox
+		size = 3405
+	}
 
 }
 1027 = {
@@ -4194,6 +4252,11 @@
 
 }
 1029 = {
+	craftsmen={
+		culture = russian
+		religion = orthodox
+		size 7865
+	}
 	soldiers=
 	{
 		culture = ugrian
@@ -4392,6 +4455,11 @@
 
 }
 1030 = {
+	craftsmen = {
+		culture = tatar
+		religion = orthodox
+		size = 7782
+	}
 	soldiers=
 	{
 		culture = tatar
@@ -4837,6 +4905,11 @@
 
 }
 1032 = {
+	craftsmen={
+		culture = russian
+		religion = orthodox
+		size = 12326
+	}
 	soldiers=
 	{
 		culture = tatar
@@ -4982,6 +5055,11 @@
 		culture = russian
 		religion = orthodox
 		size= 26148
+	}
+	craftsmen={
+		culture = russian
+		religion = orthodox
+		size = 7892
 	}
 
 }
@@ -17682,6 +17760,11 @@
 		culture = ugrian
 		religion = orthodox
 		size= 572
+	}
+	craftsmen={
+		culture = russian
+		religion = orthodox
+		size 2345
 	}
 
 }

@@ -10664,3 +10664,149 @@ steal_puppet = {
         # }
     # }
 # }
+
+# The Great Game for India
+annex_africa = {
+    sprite_index = 21
+    is_triggered_only = yes
+    months = 12
+    crisis = no
+
+    always = yes
+
+    construction_speed = 2.5
+
+    badboy_factor = 0
+    prestige_factor = 0.5
+    peace_cost_factor = 0.6
+    penalty_factor = 2
+
+    break_truce_prestige_factor = 5
+    break_truce_infamy_factor = 2
+    break_truce_militancy_factor = 2
+    truce_months = 0
+
+    good_relation_prestige_factor = 0
+    good_relation_infamy_factor = 0
+    good_relation_militancy_factor = 0
+
+    can_use = {
+        OR = {
+            neighbour = THIS
+            war_with = THIS
+        }
+        NOT = { is_our_vassal = THIS }
+        number_of_states = 1
+        OR = {
+            war_with = THIS
+            THIS = { military_score = 1 }
+        }
+        THIS = {
+            capital_scope = { continent = europe }
+            NOT = { tag = RUS }
+            NOT = { tag = TUR }
+            slavery = no_slavery
+            OR = {
+                is_greater_power = yes
+                is_secondary_power = yes
+            }
+              NOT = { has_country_modifier = neutrality_modifier }
+            NOT = { has_country_modifier = claimed_africa }
+            NOT = { has_country_flag = congo_award }
+            civilized = yes
+            has_global_flag = berlin_conference
+        }
+        NOT = {
+            tag = BNG
+            has_country_flag = post_colonial_country
+        }
+        civilized = no
+        is_vassal = no
+        capital_scope = { continent = africa }
+        ai = yes
+        OR = {
+            war_with = THIS
+            THIS = {
+                NOT = { has_country_modifier = punitive_effects }
+            }
+        }
+    }
+}
+
+great_game_india_cb = {
+    sprite_index = 22
+    is_triggered_only = yes
+    months = 12
+    crisis = no
+
+    construction_speed = 0.8
+
+    badboy_factor = 1
+    prestige_factor = 2
+    peace_cost_factor = 0.5
+    penalty_factor = 1
+
+    break_truce_prestige_factor = 1
+    break_truce_infamy_factor = 1
+    break_truce_militancy_factor = 1
+    truce_months = 48
+
+    good_relation_prestige_factor = 1
+    good_relation_infamy_factor = 1
+    good_relation_militancy_factor = 1
+
+    po_make_puppet = yes
+
+    war_name = WAR_PUPPET_NAME
+
+    can_use = {
+        is_vassal = no
+        civilized = no
+		has_global_flag = the_great_game
+        NOT = {
+            is_our_vassal = THIS
+            truce_with = THIS
+        }
+        OR = {
+            neighbour = THIS
+            any_neighbor_country = { vassal_of = THIS }
+        }
+        OR = {
+            tag = MEW
+            tag = GUJ
+            tag = DLH
+            tag = MAW
+            tag = JNP
+            tag = VIJ
+            tag = BMN
+        }
+        THIS = {
+            OR = {
+                tag = TUR
+                tag = RUS
+            }
+        }
+        OR = {
+            war_with = THIS
+            THIS = { NOT = { has_country_modifier = no_more_war } }
+        }
+    }
+
+    on_add = {
+        random_country = {
+            limit = {
+                OR = {
+                    tag = RUS
+                    tag = TUR
+                }
+                NOT = { tag = THIS }
+            }
+            relation = { who = THIS value = -50 }
+        }
+        move_issue_percentage = {
+            from = jingoism
+            to = pro_military
+            value = 0.25
+        }
+    }
+}
