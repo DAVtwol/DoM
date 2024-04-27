@@ -4,3 +4,8 @@ add_core=FRA
 add_core=OCC
 trade_goods = iron
 life_rating = 34
+state_building={
+    level = 1
+    building = steel_factory
+    upgrade = yes
+}

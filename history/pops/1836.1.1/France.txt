@@ -1482,6 +1482,12 @@
 		religion = protestant
 		size= 11939
 	}
+	
+	craftsmen={
+		culture = french
+		religion = protestant
+		size = 6573
+	}
 
 }
 414 = {
@@ -1685,6 +1691,11 @@
 
 }
 416 = {
+	craftsmen={
+		culture = french
+		religion = protestant
+		size = 8652
+	}
 	soldiers=
 	{
 		culture = french
@@ -2482,9 +2493,19 @@
 		religion = protestant
 		size= 24511
 	}
+	craftsmen={
+		culture = french
+		religion = protestant
+		size = 2136
+	}
 
 }
 425 = {
+	craftsmen={
+		culture = french
+		religion = protestant
+		size = 18236
+	}
 	soldiers=
 	{
 		culture = french
@@ -4720,9 +4741,19 @@
 		religion = catholic
 		size= 32670
 	}
+	craftsmen={
+		culture = occitan
+		religion = protestant
+		size = 16562
+	}
 
 }
 452 = {
+	craftsmen={
+		culture = occitan
+		religion = protestant
+		size = 6236
+	}
 	soldiers=
 	{
 		culture = occitan
