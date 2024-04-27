@@ -369,6 +369,18 @@
 		size= 39109
 	}
 
+	craftsmen={
+		culture = turkish
+		religion = sunni
+		size = 27427
+	}
+	
+	clerks={
+		culture = turkish
+		religion = sunni
+		size = 3209
+	}
+
 }
 861 = {
 	soldiers=
@@ -832,7 +844,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 16340
+		size= 24340
 	}
 
 	artisans=
@@ -853,7 +865,7 @@
 	{
 		culture = turkish
 		religion = sunni
-		size= 986
+		size= 2386
 	}
 
 	bureaucrats=

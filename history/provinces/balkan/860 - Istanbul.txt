@@ -4,3 +4,18 @@ add_core=GRE
 add_core=TUR
 trade_goods = fruit
 life_rating = 40
+state_building={
+	level=3
+	building = canned_food_factory
+	upgrade = yes
+}
+state_building={
+    level = 1
+    building = luxury_furniture_factory
+    upgrade = yes
+}
+state_building={
+    level = 2
+    building = small_arms_factory
+    upgrade = yes
+}
