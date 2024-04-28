@@ -44,6 +44,8 @@ upper_house =
 consciousness = 1.33333
 nonstate_consciousness= 0.103693
 
+schools = army_tech_school
+
 # Technologies
 ad_hoc_money_bill_printing = 1
 army_command_principle = 1

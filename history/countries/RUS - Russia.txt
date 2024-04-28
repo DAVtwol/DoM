@@ -21,7 +21,7 @@ school_reforms = no_schools
 
 # political reforms
 slavery=yes_slavery
-vote_franschise=landed_voting
+vote_franschise=none_voting
 upper_house_composition=appointed
 voting_system=jefferson_method
 public_meetings=no_meeting
@@ -45,6 +45,8 @@ upper_house =
 consciousness = 1
 nonstate_consciousness= 0.26793
 
+schools = industrial_tech_school
+
 # Technologies
 army_command_principle = 1
 basic_chemistry = 1
@@ -65,6 +67,12 @@ piston_steam_engine = 1
 post_napoleonic_thought = 1
 post_nelsonian_thought = 1
 the_command_principle = 1
+freedom_of_trade = 1
+guild_based_production = 1
+early_classical_theory_and_critique = 1
+private_banks = 1
+organized_factories = 1
+military_staff_system = 1
 prestige=34.6965
 oob = "RUS_OOB.txt"
 set_country_flag = religi

@@ -573,7 +573,6 @@ country_event = {
             government = presidential_dictatorship
             government = bourgeois_dictatorship
             government = fascist_dictatorship
-            government = theocracy
         }
         civilized = yes
         NOT = { vote_franschise = none_voting }

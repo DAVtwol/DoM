@@ -1,6 +1,7 @@
 capital = 2476
 primary_culture = juzhno
 culture = melanesian
+culture = bornean
 culture = zzz_religion_orthodox
 religion = orthodox
 government = democracy

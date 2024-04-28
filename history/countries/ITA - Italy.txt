@@ -76,6 +76,7 @@ romanticism = 1
 steamers = 1
 stock_exchange = 1
 the_command_principle = 1
+military_staff_system = 1
 prestige=31.1151
 oob = "ITA_OOB.txt"
 set_country_flag = religi
