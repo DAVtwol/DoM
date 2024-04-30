@@ -7,7 +7,7 @@ religion = protestant
 government = democracy
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0.0583909
+literacy = 0.5839090
 
 civilized = yes
 
@@ -77,7 +77,7 @@ steamers = 1
 stock_exchange = 1
 the_command_principle = 1
 military_staff_system = 1
-prestige=31.1151
+prestige=87.1151
 oob = "ITA_OOB.txt"
 set_country_flag = religi
 set_country_flag = vic2_country_ITA

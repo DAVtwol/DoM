@@ -5,7 +5,7 @@ religion = sunni
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.0399182
+literacy = 0.5991820
 
 civilized = yes
 
@@ -71,7 +71,7 @@ piston_steam_engine = 1
 post_napoleonic_thought = 1
 private_banks = 1
 stock_exchange = 1
-prestige=50
+prestige=143.223
 oob = "TUR_OOB.txt"
 set_country_flag = religi
 decision = ottoman_1836_setup

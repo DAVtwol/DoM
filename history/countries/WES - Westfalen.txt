@@ -5,7 +5,7 @@ religion = catholic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0.0549406
+literacy = 0.4494060
 
 civilized = yes
 
@@ -75,7 +75,7 @@ malthusian_thought = 1
 iron_muzzle_loaded_artillery = 1
 military_plans = 1
 experimental_railroad = 1
-prestige=4.31483
+prestige=42.31483
 oob = "WES_OOB.txt"
 set_country_flag = religi
 set_country_flag = vic2_country_WES

@@ -10,7 +10,7 @@ religion = catholic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.0509594
+literacy = 0.6709594
 
 civilized = yes
 
@@ -79,7 +79,7 @@ hot_blast = 1
 experimental_railroad = 1
 steamers = 1
 naval_plans = 1
-prestige=31.2121
+prestige=76.2121
 oob = "SCA_OOB.txt"
 set_country_flag = religi
 set_country_flag = vic2_country_SCA

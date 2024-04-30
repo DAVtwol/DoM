@@ -6,7 +6,7 @@ religion = protestant
 government = hms_government
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0.0515964
+literacy = 0.3259640
 
 civilized = yes
 

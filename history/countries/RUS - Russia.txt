@@ -6,7 +6,7 @@ religion = orthodox
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.0458634
+literacy = 0.3886340
 
 civilized = yes
 
@@ -73,7 +73,7 @@ early_classical_theory_and_critique = 1
 private_banks = 1
 organized_factories = 1
 military_staff_system = 1
-prestige=34.6965
+prestige=132.6965
 oob = "RUS_OOB.txt"
 set_country_flag = religi
 decision = RUS_setup_1836

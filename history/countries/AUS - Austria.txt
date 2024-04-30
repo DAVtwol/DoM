@@ -5,7 +5,7 @@ religion = protestant
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.0509594
+literacy = 0.5495940
 
 civilized = yes
 
@@ -73,7 +73,7 @@ private_banks = 1
 romanticism = 1
 stock_exchange = 1
 experimental_railroad = 1
-prestige=20.9957
+prestige=56.9957
 oob = "AUS_OOB.txt"
 set_country_flag = religi
 decision = AUS_setup_1836
