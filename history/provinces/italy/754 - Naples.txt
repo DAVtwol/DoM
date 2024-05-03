@@ -5,3 +5,4 @@ add_core=NAP
 add_core=SIC
 trade_goods = grain
 life_rating = 40
+naval_base = 1

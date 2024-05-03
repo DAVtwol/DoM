@@ -6,3 +6,4 @@ add_core=SIC
 add_core=SYC
 trade_goods = sulphur
 life_rating = 40
+naval_base = 1

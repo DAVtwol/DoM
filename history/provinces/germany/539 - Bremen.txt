@@ -5,6 +5,7 @@ add_core=GER
 add_core=WES
 trade_goods = fish
 life_rating = 40
+naval_base = 1
 state_building=
 {
 	level=1

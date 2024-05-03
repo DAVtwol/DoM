@@ -4,3 +4,4 @@ add_core=ADU
 add_core=SPA
 trade_goods = iron
 life_rating = 35
+naval_base = 1

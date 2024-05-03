@@ -6,3 +6,4 @@ add_core=OCC
 trade_goods = wool
 life_rating = 31
 terrain = forest
+naval_base = 1

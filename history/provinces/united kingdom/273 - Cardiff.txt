@@ -6,3 +6,4 @@ add_core=WHA
 trade_goods = coal
 life_rating = 35
 terrain = mining_district
+naval_base = 1
