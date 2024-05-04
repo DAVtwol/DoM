@@ -1,0 +1,11 @@
+Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+form_rhineland_puppet_title;Create Rhineland;;;;;;;;;;;;;
+form_rhineland_puppet_desc;Now we have all of the lands west of the Rhineland river that don't reach into France. It would be better to hold a useful ally here than keep the population hostile.;;;;;;;;;;;;;
+form_rhineland_free_title;Form Rhineland;;;;;;;;;;;;;
+form_rhineland_free_desc;Now we have all of the lands west of the Rhineland river that don't reach into France. Clearly we hold the mandate to unite all Rhinelanders under a united people.;;;;;;;;;;;;;
+accept_the_afrobrazilians_title;Open society to Black citizens;;;;;;;;;;;;;
+accept_the_afrobrazilians_desc;Finally, the scurge of slavery has ended. Now we must let all Brazillians share a society regardless of their colour.;;;;;;;;;;;;;
+incorporate_portuguese_colonies_title;Incoporate Uruguay;;;;;;;;;;;;;
+incorporate_portuguese_colonies_desc;If the Portuguese, who are alike to us, can accept those people in Uruguay, our government can do the same.;;;;;;;;;;;;;
+owner_title;Z Shitty bugged decision;;;;;;;;;;;;;
+owner_desc;Somewhere in the decisions folder there is a mistake in the code or Victoria just messed up (more likely). Now this decision exists, but we can't find it. It's real name is 'owner' (this is the localized name), and the way you make a decision is by putting "name = ". the issue is "owner = " shows up hundreds of times in the files so we can never find it.;;;;;;;;;;;;;

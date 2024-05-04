@@ -1837,9 +1837,19 @@ political_decisions = {
                     vassal_of = THIS
                 }
             }
-            OR = {
-                2214 = { is_core = HAI }
-                2216 = { is_core = HAI }
+            # OR = {
+            #     2214 = { is_core = HAI }
+            #     2216 = {
+            #         is_core = HAI 
+            #     }
+            # }
+            HAI = {
+                any_core = {
+                    OR = {
+                        province_id = 2216
+                        province_id = 2214
+                    }
+                }
             }
             NOT = { has_country_flag = annex_santo_domingo }
             nationalism_n_imperialism = 1
@@ -1861,9 +1871,19 @@ political_decisions = {
                 government = presidential_dictatorship
                 war = no
             }
-            OR = {
-                2214 = { is_core = HAI }
-                2216 = { is_core = HAI }
+            # OR = {
+            #     2214 = { is_core = HAI }
+            #     2216 = {
+            #         is_core = HAI 
+            #     }
+            # }
+            HAI = {
+                any_core = {
+                    OR = {
+                        province_id = 2216
+                        province_id = 2214
+                    }
+                }
             }
         }
 

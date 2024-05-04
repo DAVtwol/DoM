@@ -5,3 +5,4 @@ add_core=WES
 add_core=ARH
 trade_goods = fruit
 life_rating = 40
+add_core=RHI

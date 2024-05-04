@@ -5,3 +5,4 @@ add_core=GER
 add_core=MLH
 trade_goods = sulphur
 life_rating = 31
+add_core=RHI

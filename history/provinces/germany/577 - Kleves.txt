@@ -6,3 +6,4 @@ add_core=ARH
 trade_goods = coal
 life_rating = 40
 terrain = mining_district
+add_core=RHI

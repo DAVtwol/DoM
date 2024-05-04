@@ -1,6 +1,7 @@
 political_decisions = {
 
 	accept_the_afrobrazilians = {
+        picture = accept_afrobrazil
 		potential = {
 			tag = BRZ
 			NOT = { has_country_flag = brz_slaves_accepted }
@@ -17,6 +18,7 @@ political_decisions = {
 	}
 	
 	incorporate_portuguese_colonies = {
+        picture = core_uruguay
 		potential = {
 			tag = BRZ
 			NOT = { has_country_flag = brz_incorporated_port_colonies }
@@ -1120,9 +1122,9 @@ political_decisions = {
                 change_province_name = "Kolmar"
             }
             409 = {
-                change_province_name = "Straßburg"
+                change_province_name = "Straï¿½burg"
                 state_scope = {
-                    change_region_name = "Elsaß-Lothringen"
+                    change_region_name = "Elsaï¿½-Lothringen"
                 }
             }
             prestige = 5

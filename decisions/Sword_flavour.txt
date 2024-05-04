@@ -1,0 +1,86 @@
+political_decisions = {
+
+    form_rhineland_puppet = {
+        picture = form_rhineland
+		potential = {
+            is_greater_power = yes
+            any_owned_province = {
+                any_neighbor_province = {
+                    core_of = RHI
+                }
+            }
+            RHI = { exists = no }
+			NOT = {
+                OR = {
+                    primary_culture = north_german
+                    primary_culture = south_german
+                }
+            }
+		}
+		
+		allow = {
+			state_n_government = 1
+			war = no
+            RHI = {
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+		}
+
+		effect = {
+            prestige = 5
+			release_vassal = RHI
+            RHI = {
+                any_owned = {
+                    limit = {
+                        core_of = THIS
+                    }
+                    secede_province = THIS
+                }
+            }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+    form_rhineland_free = {
+        picture = form_rhineland
+		potential = {
+            any_core = {
+                core_of = RHI
+            }
+            RHI = { exists = no }
+            capital_scope = {
+                core_of = GER
+            }
+            OR = {
+                primary_culture = north_german
+                primary_culture = south_german
+            }
+		}
+		
+		allow = {
+			nationalism_n_imperialism = 1
+			war = no
+            RHI = {
+                all_core = {
+                    owned_by = THIS
+                }
+            }
+		}
+
+		effect = {
+            prestige = 15
+            all_core = {
+                add_core = RHI
+            }
+            change_tag = RHI
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+    
+}
