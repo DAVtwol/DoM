@@ -666,11 +666,12 @@ political_decisions = {
         }
 
         allow = {
-            mass_politics = 1
+            nationalism_n_imperialism = 1
             war_policy = jingoism
             OR = {
                 government = absolute_monarchy
                 government = fascist_dictatorship
+                governemnt = presidential_dictatorship
             }
         }
 
@@ -678,6 +679,7 @@ political_decisions = {
             badboy = 2
             set_country_flag = conquest_adriatic_happened
             AUS_780 = { add_core = ITA }
+            TUR_853 = { add_core = ITA}
             2582 = { add_core = ITA }
             #774 = { add_core = ITA }
         }
@@ -1480,5 +1482,72 @@ political_decisions = {
             854 = { add_core = ITA }
         }
     }
+   # New decisions added
+   conquering_provence = {
+        picture = provence_painting
+        potential = {
+            tag = ITA
+            has_country_flag = conquest_adriatic_happened
+            NOT = { has_country_flag = conquest_of_provence_happened } 
+        }
 
+        allow = {
+            nationalism_n_imperialism = 1
+            war_policy = jingoism
+            OR = {
+                government = absolute_monarchy
+                government = fascist_dictatorship
+                governemnt = presidential_dictatorship
+            }
+        }
+
+        effect = {
+            badboy = 5
+            set_country_flag = conquest_of_provence_happened
+            FRA_467 = { add_core = ITA }
+            SAR_466 = { add_core = ITA}
+            FRA_451 = { add_core = ITA}
+        }
+
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    restore_rome = {
+        news = yes
+        news_desc_long = "restore_rome_NEWS_LONG"
+        news_desc_medium = "restore_rome_NEWS_MEDIUM"
+        news_desc_short = "restore_rome_NEWS_SHORT"
+        picture = rome_painting
+        effect = {
+            prestige = 75
+            add_accepted_culture = andalucian
+            change_tag = RME
+            set_country_flag = rome_restored
+        }
+
+        potential = {
+            is_culture_group = italian
+            NOT = {
+                exists = RME
+            }
+         NOT = {has_country_flag = rome_restored}
+        } 
+        
+        allow = {
+            is_greater_power = yes
+            prestige = 50
+            war = no
+            has_country_flag = conquest_adriatic_happened
+            has_country_flag = conquest_of_provence_happened
+            nationalism_n_imperialism = 1
+            limit = {
+                all_core = {
+                    owned_by = ITA
+                }
+            }
+        }
+
+    }
 }

@@ -9,7 +9,7 @@ party = {
 	ideology = conservative
 
 	citizenship_policy = residency
-	economic_policy = interventionism
+	economic_policy = state_capitalism
 	religious_policy = moralism
 	social_policy = no_position_set
 	trade_policy = protectionism
