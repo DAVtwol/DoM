@@ -3,6 +3,7 @@ controller=WES
 add_core=WES
 add_core=LUZ
 add_core=WSF
+add_core = GER
 trade_goods = fruit
 life_rating = 40
 state_building=

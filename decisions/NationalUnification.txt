@@ -78,6 +78,7 @@ political_decisions = {
                 exists = GER
                 exists = ERF
                 tag = DNB
+                tag = AUS
                 AND = {
                     tag = AUS
                     NOT = { has_country_flag = austrian_greater_germany }
@@ -566,6 +567,7 @@ political_decisions = {
                 tag = SGF
             }
             NOT = { exists = GER }
+            NOT = { tag = AUS }
         }
 
         allow = {
@@ -734,9 +736,10 @@ political_decisions = {
         picture = form_germany
         potential = {
             NOT = { has_country_flag = union_is_hre }
-            tag = AUS
+            NOT = { tag = AUS }
             NOT = { exists = GER }
             NOT = { exists = ERF }
+            is_culture_group = germanic
         }
 
         allow = {

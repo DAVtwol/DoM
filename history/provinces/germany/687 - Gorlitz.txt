@@ -3,5 +3,6 @@ controller=SAX
 add_core=SAX
 add_core=LUZ
 add_core=WSF
+add_core = GER
 trade_goods = coal
 life_rating = 40
