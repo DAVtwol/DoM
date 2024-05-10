@@ -197,6 +197,7 @@ political_decisions = {
                 exists = SGF
                 has_country_flag = austrian_greater_germany
             }
+            NOT = { tag = AUS }
         }
         allow = {
             war = no
@@ -273,10 +274,11 @@ political_decisions = {
         potential = {
             NOT = { has_country_flag = union_is_hre }
             is_greater_power = yes
-            tag = AUS
+            NOT = { tag = AUS }
             NOT = { has_country_flag = austrian_greater_germany }
             NOT = { exists = GER }
             NOT = { exists = ERF }
+            primary_culture = south_german
         }
         allow = {
             war = no

@@ -1,7 +1,7 @@
-owner=ARH
-controller=ARH
+owner=AUS
+controller=AUS
+add_core = AUS
 add_core=GER
-add_core=ARH
 add_core=WES
 trade_goods = sulphur
 life_rating = 40
