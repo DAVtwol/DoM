@@ -1,5 +1,6 @@
 capital = 1249
-primary_culture = asian_minor
+primary_culture = kannada
+culture = asian_minor
 culture = zzz_religion_hindu
 religion = hindu
 government = absolute_monarchy

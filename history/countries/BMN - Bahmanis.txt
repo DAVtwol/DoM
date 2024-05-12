@@ -1,7 +1,6 @@
 capital = 1285
-primary_culture = dummy
+primary_culture = kannada
 culture = asian_minor
-culture = kannada
 culture = zzz_religion_shiite
 religion = shiite
 government = absolute_monarchy

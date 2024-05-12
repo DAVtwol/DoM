@@ -125,6 +125,10 @@ establish_protectorate_BC_casus_belli
 establish_protectorate_NI_casus_belli
 establish_protectorate_casus_belli
 status_quo
+negotiated_transfer
+tiny_conquest
+acquire_capital
+GG_acquire_capital
 }
 
 # Great War CB's
@@ -10809,4 +10813,428 @@ great_game_india_cb = {
             value = 0.25
         }
     }
+}
+
+negotiated_transfer = {
+	sprite_index = 1
+	is_triggered_only = yes
+	months = 0
+	crisis = no
+	constructing_cb = no
+	always = yes
+	badboy_factor = 0
+	prestige_factor = 0
+	peace_cost_factor = 0
+	penalty_factor = 0
+
+	break_truce_prestige_factor = 0
+	break_truce_infamy_factor = 0
+	break_truce_militancy_factor = 0
+	truce_months = 0
+	
+	good_relation_prestige_factor = 0
+	good_relation_infamy_factor = 0
+	good_relation_militancy_factor = 0
+
+
+	can_use = {
+		THIS = { ai = no }
+		ai = no
+		number_of_states = 2 # annex if you want their last state
+		NOT = { truce_with = THIS } 
+		THIS = { civilized = yes }
+		always = no
+	}
+	
+	allowed_countries = {
+		OR = {
+			FROM = { vassal_of = THIS }
+			FROM = { substate_of = THIS }
+			FROM = { tag = THIS } 
+			AND = { 
+				FROM = { ai = no } 
+				THIS = { alliance_with = FROM }
+			} 
+		}
+		FROM = {
+			exists = yes
+		}
+	}
+
+	allowed_states = {
+		OR = {
+			is_colonial = yes
+			is_colonial = no
+		}
+		any_owned_province = {
+                     		OR = {
+				is_colonial = yes
+				is_colonial = no
+                     		}
+		}
+		not = { any_owned_province = { is_capital = yes } }
+	}
+
+	po_transfer_provinces = yes
+	
+	war_name = WAR_NEGOTIATE_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.00
+		}
+	}
+}
+
+tiny_conquest = {
+	sprite_index = 2
+	is_triggered_only = yes
+	months = 12
+	crisis = no
+	
+	can_use = {
+		NOT = { is_our_vassal = THIS }
+		#1 state below 1.5 m
+		
+		AND = {
+			NOT = {number_of_states = 2}
+			NOT = {total_pops = 1500000}
+		}
+		
+		
+		is_independant = yes
+	}
+
+	badboy_factor = 0.5
+	prestige_factor = 5
+	peace_cost_factor = 1
+	penalty_factor = 1
+	
+	break_truce_prestige_factor = 5
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 0
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+	
+	construction_speed = 1
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+	}
+	
+	po_annex = yes
+	
+	war_name = WAR_CONQUEST_NAME
+}
+
+acquire_capital = {
+	sprite_index = 6
+	is_triggered_only = yes
+	months = 12
+	construction_speed = 0.5
+	
+	badboy_factor = 1.5
+	prestige_factor = 2
+	peace_cost_factor = 1
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 1
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 0
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		NOT = { is_our_vassal = THIS }
+		number_of_states = 2 # annex if you want their last state
+		any_owned_province = {
+			not = { is_core = THIS }
+			is_colonial = no
+		}
+		OR = {
+			AND = {
+				civilized = yes
+				THIS = {
+					civilized = yes
+				}
+			}
+			AND = {
+				civilized = no
+				THIS = {
+					civilized = no
+				}
+			}
+		}
+		is_independant = yes
+
+		NOT = {
+			OR = {
+				tag = MAL
+				tag = LIB
+				tag = BFA
+				tag = NGA
+				tag = NIG
+				tag = CAR
+				tag = CNG
+				tag = ZAM
+				tag = KEN
+				tag = MOZ
+				tag = ANG
+				tag = AF1
+				tag = AF2
+				tag = AF3
+				tag = AF4
+			}
+		}
+	}
+	
+	allowed_states = {
+		is_colonial = no
+		any_owned_province = {
+			not = {	is_core = THIS }
+			is_colonial = no
+		}
+		any_owned_province = { is_capital = yes } 
+	}
+	
+	allowed_states_in_crisis = {
+		any_owned_province = {
+			any_neighbor_province = {
+				owner = { tag = THIS }
+			}
+		}
+	}		
+
+	po_demand_state = yes
+	
+	war_name = WAR_TAKE_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+	}
+}
+
+establish_protectorate_casus_belli = {
+    sprite_index = 7
+    is_triggered_only = yes
+    months = 0
+    crisis = no
+
+    construction_speed = 0.5
+
+    badboy_factor = 1.5
+    prestige_factor = 1
+    peace_cost_factor = 1
+    penalty_factor = 1
+
+    break_truce_prestige_factor = 5
+    break_truce_infamy_factor = 2
+    break_truce_militancy_factor = 2
+    truce_months = 48
+
+    good_relation_prestige_factor = 0
+    good_relation_infamy_factor = 0
+    good_relation_militancy_factor = 0
+
+    always = no
+
+    can_use = {
+        civilized = no
+        is_vassal = no
+        OR = {
+            any_owned_province = { any_neighbor_province = { owned_by = THIS } }
+            AND = {
+                any_owned_province = { port = yes }
+                THIS = { any_owned_province = { port = yes } }
+            }
+        }
+        NOT = { is_our_vassal = THIS }
+        NOT = {
+            has_country_modifier = neutrality_modifier
+            number_of_states = 2
+        }
+        OR = {
+            war_with = THIS
+            THIS = { NOT = { has_country_modifier = punitive_effects } }
+        }
+        OR = {
+            THIS = { war_policy = jingoism }
+            THIS = { civilized = no }
+            war_with = THIS
+            NOT = { relation = { who = THIS value = 0 } }
+            THIS = { ai = no }
+        }
+
+        #Restrictions to non-African State conquering
+        OR = {
+            capital_scope = { continent = africa }
+
+            NOT = { total_pops = 500000 }
+
+            AND = {
+                NOT = { total_pops = 1000000 }
+                OR = {
+                    capital_scope = { is_overseas = no }
+                    THIS = {
+                        ai = no
+                        naval_logistics = 1
+                    }
+                    THIS = {
+                        ai = yes
+                        raider_group_doctrine = 1
+                        iron_steamers = 1
+                    }
+                }
+            }
+
+            AND = {
+                NOT = { total_pops = 2000000 }
+                THIS = { machine_guns = 1 }
+                OR = {
+                    capital_scope = { is_overseas = no }
+                    THIS = {
+                        ai = no
+                        naval_directionism = 1
+                    }
+                    THIS = {
+                        ai = yes
+                        steam_turbine_ships = 1
+                    }
+                }
+            }
+            AND = {
+                NOT = { total_pops = 3000000 }
+                THIS = {
+                    bolt_action_rifles = 1
+                    army_risk_management = 1
+                }
+                OR = {
+                    capital_scope = { is_overseas = no }
+                    THIS = {
+                        ai = no
+                        naval_integration = 1
+                    }
+                    THIS = {
+                        ai = yes
+                        oil_driven_ships = 1
+                    }
+                }
+            }
+            AND = {
+                total_pops = 3000000
+                THIS = {
+                    modern_divisional_structure = 1
+                    army_nco_training = 1
+                }
+            }
+        } ###End of Non-African Restrictions
+
+    }
+
+    po_annex = yes
+
+    war_name = WAR_PROTECTORATE_NAME
+
+    on_add = {
+        move_issue_percentage = {
+            from = jingoism
+            to = pro_military
+            value = 0.1
+        }
+    }
+    on_po_accepted = { tech_school = developing_tech_school }
+}
+
+# Great Game for India
+
+GG_acquire_capital = {
+	sprite_index = 6
+	is_triggered_only = yes
+	months = 0.25
+	construction_speed = 1
+	
+	badboy_factor = 1.5
+	prestige_factor = 2
+	peace_cost_factor = 1
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 1
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 0
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+        is_vassal = no
+        civilized = no
+        NOT = {
+            is_our_vassal = THIS
+            truce_with = THIS
+        }
+        OR = {
+            neighbour = THIS
+            any_neighbor_country = { vassal_of = THIS }
+        }
+        OR = {
+            is_culture_group = south_asian
+            is_culture_group = indo_iranian
+        }
+        TUR = { is_greater_power = yes }
+        RUS = { is_greater_power = yes }
+        THIS = {
+            OR = {
+                tag = TUR
+                tag = RUS
+            }
+        }
+
+    }             
+	
+    allowed_states = {
+        OR = {
+            any_owned_province = {
+                NOT = { is_core = THIS }
+                is_core = HND
+            }
+            any_owned_province = {
+                owner = { is_culture_group = south_asian }
+                NOT = { is_core = HND }
+            }
+            any_owned_province = {
+                owner = { is_culture_group = indo_iranian}
+                NOT = { is_core = HND }
+            }
+        }
+    }
+
+	po_demand_state = yes
+	
+	war_name = WAR_TAKE_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+	}
 }

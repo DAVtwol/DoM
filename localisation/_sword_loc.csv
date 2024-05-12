@@ -9,3 +9,17 @@ incorporate_portuguese_colonies_title;Incoporate Uruguay;;;;;;;;;;;;;
 incorporate_portuguese_colonies_desc;If the Portuguese, who are alike to us, can accept those people in Uruguay, our government can do the same.;;;;;;;;;;;;;
 owner_title;Z Shitty bugged decision;;;;;;;;;;;;;
 owner_desc;Somewhere in the decisions folder there is a mistake in the code or Victoria just messed up (more likely). Now this decision exists, but we can't find it. It's real name is 'owner' (this is the localized name), and the way you make a decision is by putting "name = ". the issue is "owner = " shows up hundreds of times in the files so we can never find it.;;;;;;;;;;;;;
+tiny_conquest;Tiny Conquest;;;;;;;;;;;;x;;;
+tiny_conquest_short;Annex $RECIPIENT$;;;;;;;;;;;;x;;;
+tiny_conquest_setup;Annex $RECIPIENT$;;;;;;;;;;;;x;;;
+acquire_capital;Take Capital;;;;;;;;;;;;x;;;
+acquire_capital_short;Take $RECIPIENT$ capital;;;;;;;;;;;;x;;;
+acquire_capital_setup;Take $RECIPIENT$ capital;;;;;;;;;;;;x;;;
+negotiated_transfer;Negotiated Transfer;;;;;;;;;;;x
+negotiated_transfer_desc;Transfer a state or colonial region to another country with no effect on infamy, prestige, or jingoism;;;;;;;;;;;;x
+negotiated_transfer_short;$RECIPIENT$ receives $STATE$ from us;;;;;;;;;;;;;x
+negotiated_transfer_setup;Transfer $STATE$ from our country to $RECIPIENT$;;;;;;;;;;;;x
+GG_acquire_capital;Great Game;;;;;;;;;;;x
+GG_acquire_capital_desc;Seize the Indian subcontinent in a mad rush;;;;;;;;;;;;x
+GG_acquire_capital_short;$RECIPIENT$ receives $STATE$ from us;;;;;;;;;;;;;x
+GG_acquire_capital_setup;Cede $STATE$ from our country to $RECIPIENT$;;;;;;;;;;;;x
