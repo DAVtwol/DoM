@@ -1,5 +1,5 @@
 name = "Divergences of Mongoose"
-path = "mod/DoM-main"
+path = "mod/DoM"
 user_dir = "DoM"
 replace = "history/provinces"
 replace = "history/countries"
