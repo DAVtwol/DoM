@@ -610,7 +610,7 @@ ARM = {
 
 # Australia
 AST = {
-    color1= { 26 27 154  }
+    color1= { 146 109 171  }
     color2= { 161 126 128  }
     color3= { 69 157 208  }
 }

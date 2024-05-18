@@ -4,7 +4,7 @@
 #                                                        #
 #########################################################
 
-#The Kanûn-i Esâsî
+#The Kanï¿½n-i Esï¿½sï¿½
 country_event = {
     id = 98625
     title = "EVTNAME98625"
@@ -4201,5 +4201,42 @@ country_event = {
             modifier = { factor = 0.6 badboy = 0.7 }
             modifier = { factor = 0.1 NOT = { AND = { owns = 1163 owns = 1164 } } }
         }
+    }
+}
+
+country_event = {
+
+    id = 140000 # Sindh annexation
+    title = "EVTNAME140000"
+    desc = "EVTDESC140000"
+    picture = map_sindh
+
+    trigger = {
+        tag = TUR
+        TUR = { is_greater_power = yes }
+        capital = 860
+        year = 1837
+
+    }
+
+    fire_only_once = yes
+
+    mean_time_to_happen = {
+        months = 120
+        modifier = {
+            factor = 10
+            year = 1838
+        }
+        modifier = {
+            factor = 20
+            year = 1839
+        }
+    }
+
+    option = {
+        name = "EVTOPTA140000" #We have been ultimately driven from Europe...
+        prestige = 10
+        TUR = { inherit = SIN }
+        set_global_flag = india_great_game
     }
 }

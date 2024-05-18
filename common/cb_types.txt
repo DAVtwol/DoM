@@ -11206,6 +11206,7 @@ GG_acquire_capital = {
                 tag = RUS
             }
         }
+        has_global_flag = india_great_game
 
     }             
 	
